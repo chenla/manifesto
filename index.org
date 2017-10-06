@@ -1,0 +1,26 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   Manifesto | TOC
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:      /home/deerpig/proj/chenla/manifesto/index.org
+:Created:   2017-10-06T18:08@Prek Leap (11.642600N-104.919210W)
+:ID:        730bbfc9-e0cb-4c6f-97e0-4dbdef81b4d9
+:VER:       560560166.539684901
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:TWT0-8431
+:Class:     primer
+:Entity:    toc
+:Status:    wip 
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+*  | Table of Contents
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+
