@@ -35,3 +35,6 @@
   - Maps
   - Stories
   - The Window
+
+manifesto, declaring opinions, motivations, intentions --
+but in the case...
