@@ -38,3 +38,16 @@
 
 manifesto, declaring opinions, motivations, intentions --
 but in the case...
+
+I was never completely comfortable with bitcoin -- and it
+just struck me last night why.  
+
+We've come to assume that our civilization is normal, when
+it is actually completely broken.  So when things break we
+don't go back and say, hey the system is broken, so let's
+fix it.  No, we treat the broken system as normal and try to
+make it work.  But you can't.  It's broken.
+
+it all seems to come down to compartmentalization -- Man
+really doesn't scale, and it's clear that we can not treat
+Man as individuals in every context.
