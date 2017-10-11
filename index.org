@@ -149,6 +149,23 @@ a simple pot may require a dozen or more staging and commits
 and a couple of merges, as well as adding outside inputs
 like clay, electricity and glaze.
 
+in fact, repos would be nested within each other, and other
+repos broken up, with component parts added to other repos.
+
+the repos as information, would still be completely
+distributed -- which makes it difficult to use for managing
+things that can't be copied, like physical objects and
+energy.  This would require that any repo that contains such
+objects would not be 100% distributed where anyone could do
+anything to anything in their clone -- it would likely
+require a locking mechanism for things that can't be copied,
+or at least designating owners who were authorized to make
+changes to physical objects.  this is how things are done at
+GitHub and GitLab etc. who overlay those layers.  This would
+have to be standardized and internalized into any git repo,
+so that the system would work everywhere.
+
+
 the simple pot example would be much larger if you add in
 all of the logistics and transportation to the chain as well
 -- and this is important because I think most of the burden
