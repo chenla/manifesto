@@ -156,8 +156,21 @@ of inspection/measuring etc be placed on the logistics and
 transportation network when they pick up or drop something
 off.
 
+---
 
+but is such a system too transparent?  It doesn't have to
+be.  This is a holonic network, with chains nested in
+chains.  Subchains could remain private by putting them into
+a block that was locked, with only a public hash that the
+outside world would see.
 
+---
+
+A system like this isn't obvious because it woven into the
+fabric of a society -- not just difficult to implement, but
+also for other systems to co-exist with.  That means the
+system would eventually be percieved as a threat to
+nation-state currency systems.
 
 
 
