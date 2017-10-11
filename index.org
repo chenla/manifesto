@@ -39,6 +39,8 @@
 manifesto, declaring opinions, motivations, intentions --
 but in the case...
 
+---
+
 I was never completely comfortable with bitcoin -- and it
 just struck me last night why.  
 
@@ -51,3 +53,87 @@ make it work.  But you can't.  It's broken.
 it all seems to come down to compartmentalization -- Man
 really doesn't scale, and it's clear that we can not treat
 Man as individuals in every context.
+
+---
+
+When I realized that you still needed some element of trust
+when adding things or energy to the system I was really
+bummed out because you'd never be able to get to a
+completely electronic system that didn't rely on a trusted
+institution.  
+
+   then it hit me that the perhaps we don't need it after
+all.  let's take an example of a farmer who has PV cells on
+the roof of his house producing more electricity during the
+day than he needs.
+
+these are both things he produced himself that did not
+belong to the system before.  when he cut the bamboo,
+perhaps he wrote down the information about it in a
+notebook, or into a spreadsheet along side how much
+electricity he produced.  there was no danger of him
+trying to lie about the electricity he had,
+because it would only be a lie to himself.  he could do
+whatever he wanted with it and no one would be the wiser.
+
+it's only when he wants to trade the electricity to someone
+else that there needs to be some sort of verification.
+
+so let's say his neighbor is a potter and needs all the
+electricity she can get on days that she is firing her
+electric kiln.  the farmer can then trade the electricity to
+her for pots, or cash.  If they need to get fancy she can
+put a meter on electricity going into the kiln and work out
+a payment per unit.  the meter is the way that she can
+inspect what she is buying and take posession of it.  so
+there is a sort of causal chain of custody -- but this is
+only a one link chain and then the electricity is turned
+into heat and the heat becomes an input that is part of
+making the pots, but there are other inputs.  there is the
+clay, which she get's from her sister who also uses clay
+make bricks, and there are glazes etc.  so when she sells a
+pot there are three separate causal links that merge to
+become the pot (4 if your count her skill and work).  when
+she sells the pot to a pot wholeseller in the city, she
+buyer comes and inspects the pots and pays when they take
+possession.  Those pots are then bought by shops in the
+region, which adds another causal link -- so when the
+end-user buys a pot in the shop, there is a causal chain
+from river clay bank, solar-array, etc all the way to when
+the pot reaches the buyer.
+
+at each link in the chain, something is inspected and
+exchanged.  if each of these verifications and exchanges are
+recorded and added together to become a block-chain.  Now,
+instead of creating tokens that are imutable and can be
+transfered, what if tokens could be created when you pass
+something of value on your side, and destroys tokens on the
+buyers side as part of taking posession without requiring a
+global ledger and all of the electricity needed to vertify
+everything, then we might have something interesting.
+
+but is this just the same problem as bitcoin is trying to
+solve?  Don't we still have the problem of people
+double-spending coins they pay with?  No, because their
+coins will have been created directly or indirectly as part
+of other causal chains.  so the seller needs only confirm
+the causal chains of the coins being destroyed, and not all
+the way back either -- chains can be lumped into confirmed
+blocks which are part of other blocks which can't be altered
+without unraveling the chains they hold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
