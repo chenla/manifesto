@@ -122,7 +122,39 @@ the way back either -- chains can be lumped into confirmed
 blocks which are part of other blocks which can't be altered
 without unraveling the chains they hold.
 
+if that still feels a little weak, we then do the same thing
+for individuals, groups and IOT devices.
 
+so the electric meter has a reputation that is built up by
+successful causal chains /after/ it has done it's job up the
+chain, and then the farmer also get's a boost to his
+reputation as well.
+
+every person and group (company, organization government
+dept etc) all have their own chains as well.  So when a
+transaction happens it is tied to that person and if
+something goes wrong it will be tracked back to where the
+chain was broken.
+
+I would imagine that once such a system reached a critical
+size, it would be computationally extreamly difficult to
+alter the system and could therefore be trusted.
+
+all of this is then tied into the everything-as-a-git repo
+idea, and every iteration, change, branch and fork within
+repos and between repos beome part of a larger causal chain
+that is easy to use, but very difficult to cheat.
+
+a simple pot may require a dozen or more staging and commits
+and a couple of merges, as well as adding outside inputs
+like clay, electricity and glaze.
+
+the simple pot example would be much larger if you add in
+all of the logistics and transportation to the chain as well
+-- and this is important because I think most of the burden
+of inspection/measuring etc be placed on the logistics and
+transportation network when they pick up or drop something
+off.
 
 
 
