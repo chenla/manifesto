@@ -191,7 +191,7 @@ nation-state currency systems.
 
 ---
 
-Another day, thinking about all of the above and more this
+Another day, thinking about all of the above and more 
 as my body slowly recovers from a week of hives+goutx2 which
 was awful, but at the same time cathartic.  I was almost
 entirely cut off from the world (except for looking up
@@ -201,13 +201,27 @@ I'm starting to think that it might be a viable approach --
 ie everything is web of interconnected repos forming a
 fabric of fnords and causal chains....
 
+---
 
+still can't get my head around where to begin -- in terms
+of... any  of it?  So much has to be in place for it to work
+that this will be a real challenge.
 
+bamboo is too abstract for the first test, but:
 
+  farm --> shaper --> plywood --> opendesk
 
+would be a good soft-launch of the system, if opendesk buys
+into the idea, we provide an app, set up the farmers,
+processing and plywood factory and then the shop with the
+laser cutter and assembly.
 
+but before that we need something very small scale and
+specialized that can be rolled out in PP.  I like the idea
+of doing it with Tar, and something that can go after
+foreign restaurants for example.
 
-
-
-
+but I keep thinking of supply side, when their real
+challenge is to find customers -- and especially connect to
+people who will only be in town for a night or two....
 
