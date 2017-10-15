@@ -262,3 +262,6 @@ GitLab it would be about right.
 Disscussion should be included in repos -- it provides a
 means of capturing intent and all sorts of other things that
 otherwise are not captured.
+
+in fact this should be the cornerstone of literate version
+control.
