@@ -242,3 +242,16 @@ or pay off people so there needs to be something else
 something more in between -- but.....
 
 
+---
+
+still with the placeholder notes here -- still not up to
+speed yet -- my head is still cloudy....
+
+This is an interesting and dead simple approach to including
+issues in repos:
+
+  [[https://github.com/dspinellis/gi][dspinellis/gi: Git-based issue management]]
+
+However the issues are included in the repo, so commits are
+mixed up with changes to the code/text in the repo.  Could
+this be moved into a git submodule?
