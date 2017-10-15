@@ -255,3 +255,10 @@ issues in repos:
 However the issues are included in the repo, so commits are
 mixed up with changes to the code/text in the repo.  Could
 this be moved into a git submodule?
+
+if this could also import and export issues from GitHub and
+GitLab it would be about right.
+
+Disscussion should be included in repos -- it provides a
+means of capturing intent and all sorts of other things that
+otherwise are not captured.
