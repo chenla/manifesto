@@ -254,7 +254,7 @@ issues in repos:
 
 However the issues are included in the repo, so commits are
 mixed up with changes to the code/text in the repo.  Could
-this be moved into a git submodule?
+this be moved into a git submodule?x
 
 if this could also import and export issues from GitHub and
 GitLab it would be about right.
@@ -265,3 +265,10 @@ otherwise are not captured.
 
 in fact this should be the cornerstone of literate version
 control.
+
+---
+
+the last thing that's missing is the one thing I don't want
+to do -- lead.  But no one else is going to do it for me,
+and I'm not the guy to follow someone else's vision, so it's
+up to me....
