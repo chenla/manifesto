@@ -25,5 +25,34 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Introduction
 
+ - Map and Territory
+ - Legibility 
+ - Worldview
+
+ - climate shapes our relationship with the world, and our worldview
+
+   - it could be said that most cultural differences are
+     derived from the different way we solve problems to
+     adapt to the local climate.  temperature, rainfall,
+     proximity to rivers or lakes or oceans, length of days
+     and nights are all part and parcel of the mechanics of
+     our daily lives.
+     
+     Contrast the world view's embodied in Homer's Oddessy
+     and Iliad and Beowulf. Homer called the Mediterranean
+     the wine dark sea.  Echoing Homer, James Joyce called
+     the North Sea, the "snot green sea" in /Ulysses/,
+     though in Beowulf, the sea is a "whale-road."  Odysseus
+     made camp on the beach and partied.  Beowulf headed
+     straight to the beer hall, which had no windows and
+     only a door and a hole in the roof to let out smoke.
+     For Odysseus the world was benign, but controlled by
+     bickering and spiteful Gods who could be petitioned for
+     help, but who's internecine machinations more often
+     brought misfortune for man.  Beowulf's Gods were
+     distant and seemingly disinterested in man.  No help or
+     intervention was coming, nor was expected, leaving
+     Heroes like Beowulf to take matters into their own
+     hands to do battle with both monsters and nature
+     directly.
