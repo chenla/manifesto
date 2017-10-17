@@ -24,17 +24,17 @@
 
 
 
-  - The Yellow Brick Road
-  - Filters
-  - Savannah
-  - Fragility
-  - Estrangement
-  - Social Fabric
-  - Natures
-  - Storms
-  - Maps
-  - Stories
-  - The Window
+  - [[./manifesto-yellow.org][The Yellow Brick Road]]
+  - [[./manifesto-filters.org][Filters]]
+  - [[./manifesto-savannah.org][Savannah]]
+  - [[./manifesto-fragility.org][Fragility]]
+  - [[./manifesto-estrangement.org][Estrangement]]
+  - [[./manifesto-social.org][Social]]
+  - [[./manifesto-natures.org][Natures]]
+  - [[./manifesto-storms.org][Storms]]
+  - [[./manifesto-maps.org][Maps]]
+  - [[./manifesto-stories.org][Stories]]
+  - [[./manifesto-window.org][Window]]
 
 manifesto, declaring opinions, motivations, intentions --
 but in the case...
