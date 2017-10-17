@@ -1,0 +1,29 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Maps
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/manifesto/manifesto-maps.org
+:Created:   2017-10-17T19:13@Prek Leap (11.642600N-104.919210W)
+:ID:        e182ecc9-fa73-4d96-a76f-e9f498a60764
+:VER:       561514456.005993929
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:PTG0-0381
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
+
