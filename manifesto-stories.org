@@ -25,5 +25,14 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Introduction
 
+
+ - stories make cooperation between large groups possible
+   -- havelock and homer as oral cultural encyclopedia.
+
+ - ariadne's Thread -- maps, narratives and territories
+ - indistinguishable from magic -- mitigating complexity --
+   we need mythos to map technology so we can relate to it,
+   understand it and use it.
+ - language & mythos as interface
+ - transcending and returning to human scales
