@@ -25,5 +25,169 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Introduction
+#+begin_quote
+The Earth is the cradle of the mind, but we cannot live
+forever in a cradle. 
 
+-- Konstantin Tsiolkovsky (1857-1935)
+#+end_quote
+
+
+#+begin_quote
+You can't cross the sea merely by standing and staring at 
+the water.
+
+-- Rabindranath Tagore (1861-1941)
+#+end_quote
+
+
+#+begin_quote
+You begin saving the world by saving one man at a time; all
+else is grandiose romanticism or politics.
+
+-- Charles Bukowski (1920-1994)
+#+end_quote
+
+#+begin_quote
+Pass it on .... That's the game I want you to learn to play.
+Pass it on.
+
+-- Alan Bennett, /The History Boys/
+#+end_quote
+
+* I.   The Yellow Brick Road
+
+Is there anybody out there?  The question hangs in the air,
+everyone holding their breath, straining to hear in the
+uncomfortable silence.  We are terrified of being alone,
+alone in the dark, in the crowd, to be the first to speak
+out, and to wake in the middle of the night with no one
+beside us.  But we are just as scared of who might be out
+there in the darkness beyond the warm flickering safety of
+the fire; a lion, a monster, a ghost of those and those
+things we don't care to remember or re-live.  Part of the
+problem is that as a species we evolved to be in the middle
+of the african savannah ecosystem.  We weren't at the
+bottom, but we certainly weren't at the top.  Lions and
+tigers and bears, indeed...
+
+Our ascension to the top of the food chain was recent and so
+rapid that the slow mills of evolution didn't have time to
+grind out the psychological perks that come with being an
+apex predator.  We don't have the casual confidence or raw
+muscle of the lion, the deft, deadly resolve of the tiger or
+the plodding heavy certainty of the bear.  In the end we are
+still fearful apes who have just come down from the branches
+long enough to make a mad dash for the next clump of trees
+where there are some tasty looking figs.  So even today we
+still whisper, often secretly to ourselves, "is there
+anybody out there," uncertain if we really want to know.
+But there is no answer, not yet.
+
+We live in a cosmos made up of hundreds of billions of
+galaxies flying apart from the explosion that gave birth to
+our universe.  Each galaxy is made up of hundreds of
+billions of fireballs burning holes in the fabric of
+spacetime as they orbit, hurtling around each other.  From
+time to time one may collapse into a darkness so absolute
+that not even information can escape.  Other times some may
+explode and for a brief moment outshine all of the other
+fireballs in the galaxy, to become vast gas clouds of
+astonishing beauty that in turn become the stellar nurseries
+where new stars are born.
+
+As gravity clumped, collided and collapsed the gas and dust
+into itself, a star was born some 13.7 billion years ago in
+such a nursery, in an uninteresting part of a spiral galaxy
+we now call the Milky Way.  Orbiting this star are nine
+planets, and billions of planetoids made up of rock, iron
+and ice, including a small rocky world orbiting close enough
+to the star for there to be water in a liquid state.
+
+The more we learn about the universe and our place in it,
+the more it's clear that there is nothing special or unique
+about us.  We are now discovering, almost every day, the
+rocky worlds and gas giants that are orbiting the stars in
+our stellar neighborhood. In the coming decades we will have
+the ability to learn the composition of the atmospheres of
+these worlds.  There is no reason to think that we won't
+find other worlds, close enough to their stars to be water
+worlds like ours.
+
+But if there is nothing special about us, then it's
+reasonable to expect that life will have evolved on other
+planets and might even be relatively common.  And, that on
+some planets where there is life, that a species evolves 
+to build a technological civilization like ours.  
+
+So where is everybody?  This question is known as the Fermi
+Paradox.  There is a long list of reasons we haven't yet
+found evidence of other technological civilizations, but
+there is one reason that haunts the dreams of many
+scientists.  What if the reason that we haven't found anyone
+out there is that technological civilizations are are by
+their very nature so unstable that they destroy themselves
+shortly after the start of their own scientific revolution.
+
+Is this our fate as well?  Are technological species little
+more than mayflies that have a brief frantic existence
+before falling dead in the dark hours before dawn?  It's
+called the Great Filter, the existential moment of truth
+that a technological race must face after they have unlocked
+nuclear forces that power the stellar infernos.  Or, perhaps
+what destroys them is learning how to reshape the structure
+of life itself as if it were nothing more than a child's set
+of lego bricks.  Or, that in their ignorance and immaturity,
+they leverage their new found technological prowess to do
+nothing but overrun their planet with their numbers, exhaust
+all easily exploited mineral and energy wealth and exceed
+their planet's carrying capacity and then collapse and not
+have the resources to re-build an industrial civilization.
+
+If this sounds familiar it should be.  If we fall now, there
+is no rebuilding. The surviors will eek out an existence as
+best they can until an asteroid or super volcano, or ice age
+finally puts an end to the great human experiment.
+
+Our ancestors understood that there were forces in the
+universe which even the gods could not escape, to which they
+they gave names like Fate. Fate could not be petitioned, or
+sacrificed to, or even hear us if we did.  The Gods might
+intervene in some small ways on our behalf, if they could be
+bothered.  But ultimately these things were beyond even the
+vast powers of the immortals.
+
+It was thought that these forces determined what and how
+things happened, but it turned out that fate was nothing
+more or less than the physical laws of the universe which
+are governed by the complexity of everything interacting
+with each other.
+
+You can predict the outcome of simple systems.  But once a
+system crosses a threshold of complexity, all there is, is
+statistics.  It's a bit like the game of Go.  In Go, binary,
+black and white stones are placed on a grid cut into a block
+of wood.  We thought that Fate and the Gods added, removed
+and moved stones on the board in a dance that we could not
+understand, control or predict.  Instead, stones are dropped
+onto the board at random, white and black with an equal
+chance of any stone landing on any square. What you get is a
+Poisson Distribution where you can predict how many squares
+on the grid will have how many stones, but not which squares
+will have which number of stones.
+
+There is no prayer that can change the certainty of our
+uncertainty.  As individuals we must each learn to make
+peace with the unknown.  Our consolation is that over time
+scales that are beyond the living memory of any individual,
+we contribute to collectively beat fate, pass the test and
+make it through the Great Filter, but only if enough of us
+as individuals today, and tomorrow, decide to do so.
+
+This is the great task we must choose or perish trying.
+This is where we must begin, with a single step, at the
+center of a widening path spiraling out into a vast kingdom
+that we still know little about.  Each tenuous step forward
+will often require us to retrace our steps back.  But there
+is nothing for it but to push on down the yellow brick road
+to learn something that, or meet someone, who can help.
