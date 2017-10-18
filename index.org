@@ -23,6 +23,7 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+* Manifesto
 
   - [[./manifesto-yellow.org][The Yellow Brick Road]]
   - [[./manifesto-filters.org][Filters]]
@@ -37,3 +38,25 @@
   - [[./manifesto-stories.org][Stories]]
   - [[./manifesto-window.org][Window]]
 
+* Constants
+
+Constants are bedrock variables that define things that can
+not be changed like the speed of light or dunbar's number.
+They supercede what we want or what we would like and
+provide empirical design limits.  No theses can =violate= or
+contradict a =constant=.
+
+* Theses
+
+Theses are declarations that will provide a foundation for
+a =civil ruleset= for people to live and cooperate with each
+other.  A theses is a social fiction that is collectively
+believed in.  It defines how we want to live and behave with
+each other.
+
+* Patterns
+
+Patterns are repeating themes in nature, design and human
+behavior that when combined with other patterns strengthen
+each other and create things that are larger than the sum of
+their parts.
