@@ -28,3 +28,10 @@
 * Introduction
 
 
+The cognitive limit of the number of people with whom a person can
+maintain a stable social relationship.  The number is between 100 and
+250 with the comfortable limit usually around 150.
+
+
+
+ - [[https://en.wikipedia.org/wiki/Dunbar%27s_number][Dunbar's number]] | Wikipedia
