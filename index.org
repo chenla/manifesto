@@ -54,6 +54,9 @@ other.  A theses is a social fiction that is collectively
 believed in.  It defines how we want to live and behave with
 each other.
 
+ - [[./theses-notes.org][Theses Notes]]
+
+
 * Patterns
 
 Patterns are repeating themes in nature, design and human
