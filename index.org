@@ -46,6 +46,10 @@ They supercede what we want or what we would like and
 provide empirical design limits.  No theses can =violate= or
 contradict a =constant=.
 
+ - speed of light
+ - [[./constant-dunbar.org][Dunbar's Number]]
+
+
 * Theses
 
 Theses are declarations that will provide a foundation for
