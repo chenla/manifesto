@@ -15,7 +15,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-*  | Table of Contents
+* Manifesto | Table of Contents
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
