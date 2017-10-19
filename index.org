@@ -58,7 +58,7 @@ other.  Our theses is a social fiction that defines how we
 /want/ to live and behave with each other.
 
 
-Preamble
+ - [[./theses-preamble.org][Preamble]]
 
 Nature makes no declarations. There is only the inevitable
 interactions of matter, energy, space and time as determined
