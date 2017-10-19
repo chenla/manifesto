@@ -27,3 +27,56 @@
 
 * Introduction
 
+  - [[https://en.wikipedia.org/wiki/Speed_of_light][Speed of light]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Light_cone][Light cone]] | Wikipedia
+
+Speed of light. Light cone, upper limit of causal propagation,
+determines how fast information and change propagates.
+
+#+begin_quote
+The above classifications hold true in any frame of reference; that
+is, an event judged to be in the light cone by one observer, will also
+be judged to be in the same light cone by all other observers, no
+matter their frame of reference. This is why the concept is so
+powerful.
+
+The above refers to an event occurring at a specific location and at a
+specific time. To say that one event cannot affect another means that
+light cannot get from the location of one to the other in a given
+amount of time. Light from each event will ultimately make it to the
+former location of the other, but after those events have occurred.
+
+As time progresses, the future light cone of a given event will
+eventually grow to encompass more and more locations (in other words,
+the 3D sphere that represents the cross-section of the 4D light cone
+at a particular moment in time becomes larger at later
+times). Likewise, if we imagine running time backwards from a given
+event, the event's past light cone would likewise encompass more and
+more locations at earlier and earlier times. The farther locations
+will of course be at later times: for example, if we are considering
+the past light cone of an event which takes place on Earth today, a
+star 10,000 light years away would only be inside the past light cone
+at times 10,000 years or more in the past. The past light cone of an
+event on present-day Earth, at its very edges, includes very distant
+objects (every object in the observable universe), but only as they
+looked long ago, when the Universe was young.
+
+Two events at different locations, at the same time (according to a
+specific frame of reference), are always outside of each other's past
+and future light cones; light cannot travel instantaneously. Other
+observers, of course, might see the events happening at different
+times and at different locations, but one way or another, the two
+events will likewise be seen to be outside of each other's cones.
+
+-- [[https://en.wikipedia.org/wiki/Light_cone][Light cone]] | Wikipedia
+#+end_quote
+
+
+
+The farther away, the more groups diverge from each other,
+linguistically, culturally.
+
+Provides hard limits for group cohesion, identity etc.
+
+Can there be a true global civilization? Can there be a true solar
+civilization?
