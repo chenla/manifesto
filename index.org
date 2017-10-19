@@ -48,6 +48,8 @@ contradict a =constant=.
 
  - [[./constant-speed-of-light.org][Speed of Light]]
  - [[./constant-dunbar.org][Dunbar's Number]]
+ - [[./constant-millers-law.org][Miller's Law]] 
+
 
 * Theses
 

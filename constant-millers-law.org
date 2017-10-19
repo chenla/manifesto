@@ -1,0 +1,28 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Miller's Law
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/manifesto/constant-millers-law.org
+:Created:   2017-10-19T13:36@Prek Leap (11.642600N-104.919210W)
+:ID:        77389eeb-96e1-4c5a-8440-27a21b0cd3c0
+:VER:       561667071.454185693
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:XFC3-3267
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
