@@ -46,9 +46,8 @@ They supercede what we want or what we would like and
 provide empirical design limits.  No theses can =violate= or
 contradict a =constant=.
 
- - speed of light
+ - [[./constant-speed-of-light.org][Speed of Light]]
  - [[./constant-dunbar.org][Dunbar's Number]]
-
 
 * Theses
 
@@ -59,12 +58,7 @@ other.  Our theses is a social fiction that defines how we
 
 
  - [[./theses-preamble.org][Preamble]]
-
-
-
-
  - [[./theses-notes.org][Theses Notes]]
-
 
 * Patterns
 
