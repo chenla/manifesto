@@ -26,3 +26,10 @@
 
 
 * Introduction
+
+
+ - [[https://en.wikipedia.org/wiki/Miller%27s_law][Miller's law]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two][The Magical Number Seven, Plus or Minus Two]] | Wikipedia
+ - [[http://www.musanim.com/miller1956/][The Magical Number Seven]] | George A. Miller
+
+ 
