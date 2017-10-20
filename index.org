@@ -27,6 +27,7 @@
 
   - [[./manifesto-yellow.org][The Yellow Brick Road]]
   - [[./manifesto-filters.org][Filters]]
+  - [[./manifesto-life.org][Life]]
   - [[./manifesto-savannah.org][Savannah]]
   - [[./manifesto-cognition.org][Cognition]]
   - [[./manifesto-fragility.org][Fragility]]
