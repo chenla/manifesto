@@ -51,7 +51,6 @@ contradict a =constant=.
  - [[./constant-dunbar.org][Dunbar's Number]]
  - [[./constant-millers-law.org][Miller's Law]] 
 
-
 * Theses
 
 Scopic Theses are declarations that provide a foundation for
@@ -69,3 +68,14 @@ Patterns are repeating themes in nature, design and human
 behavior that when combined with other patterns strengthen
 each other and create things that are larger than the sum of
 their parts.
+
+
+* Roadmap
+
+A Roadmap for Mankind over the next 50 years to move from
+being a centralized global civilization, with crtical
+knowledge, infrastructure and wealth pooled in a handful of
+people, places, and organizations, to a distributed
+multiplanetary civilization reflecting the needs of a
+rapidly shrinking population on earth and an increasingly
+hostile climate.
