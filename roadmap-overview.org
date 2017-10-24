@@ -27,3 +27,10 @@
 
 * Introduction
 
+
+The roadmap combines a couple of different things:
+
+  - timeline for population projections
+  - timeline for mars and industrialization of space
+  - timeline for rolling out d9d -- where d9d is a network of nodes
+    which represent people, devices and processes (micro value-chains)
