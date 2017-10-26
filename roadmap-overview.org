@@ -57,10 +57,9 @@ existence.
     materials science, genetic manipulation and medical.
   - full blown AI/Robotics
 
-I don't think mars will be possible without at the first two
-stages until century or more of development has created
-stable long term habitats and set terraforming processes in
-motion.
+I don't think mars will be possible at the first two stages
+until century or more of development has created stable long
+term habitats and set terraforming processes in motion.
 
 Industrialization of space will not be possible at the first
 two levels as well.
@@ -77,3 +76,26 @@ layers that represent different aspects of civilization
 
 transporaton, communication, energy, healthcare, education,
 construction, agriculture
+
+but this doesn't solve things either because we need to also
+know how many instances of a specialization is needed for a
+given population -- this gives us a measure of how
+distributed something is.  and if that isn't complicated
+enough, distribution is not going to be nice and neat with
+all required specialities needed for a particular area to be
+within that area -- a given area (say a bioregion) doesn't
+need to be a complete independent instance of civilization,
+but it does need to have access to everything, and if they
+don't produce it, they need access to enough redundent
+sources of it.  so if we have a bioregion with 2 million
+people, it might be able to produce locally, say 60% of
+everything they consume, but that other 40% might spread
+over many other bioregions.
+
+we will also need to have in place the ability to jumpstart
+specilties when the number of instances of that specialty
+falls below a critical number.  The knowlege of being able
+to do that should be the most distributed thing of all --
+ideally, every bioregion should have all of the knowledge
+and means to create /every/ specialty locally if they need
+to.  not a trivial problem.....
