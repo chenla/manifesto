@@ -34,3 +34,46 @@ The roadmap combines a couple of different things:
   - timeline for mars and industrialization of space
   - timeline for rolling out d9d -- where d9d is a network of nodes
     which represent people, devices and processes (micro value-chains)
+
+What we need to be looking for is two tipping points; when
+colonizing mars and the industrialization of space becomes
+inevitable and second, when mankind becoming a distributed
+civilization becomes inevitable.
+
+Making mankind a multiplanet species is not enough,
+civilization has to become truly distributed, not just
+decentralized.  If mars becomes a viable place to live, it
+will still not make civilization safe unless is it also
+completely independent of earth -- so that if earth vanishes
+one day, civilization on mars will continue on uneffected.
+
+So we need to estimate how many specializations are required
+for civilization to be distributed at several levels of
+existence.
+
+  - industrial edwardian
+  - info-tech -- which is likely a bit more advanced than
+    today, but based on advanced computing, networking,
+    materials science, genetic manipulation and medical.
+  - full blown AI/Robotics
+
+I don't think mars will be possible without at the first two
+stages until century or more of development has created
+stable long term habitats and set terraforming processes in
+motion.
+
+Industrialization of space will not be possible at the first
+two levels as well.
+
+The number of specializations depends on how many of those
+specializations can be handled per person.  In an ai/robotic
+civilization, a single person will be able to manage
+multiple specializations through force multiplication,
+autonomous systems and allowing ai systems to become
+extented and externalized cognitive processes
+
+The roadmap could break down specializations into different
+layers that represent different aspects of civilization
+
+transporaton, communication, energy, healthcare, education,
+construction, agriculture
