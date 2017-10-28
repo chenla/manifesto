@@ -30,6 +30,7 @@
   - [[./manifesto-life.org][Life]]
   - [[./manifesto-savannah.org][Savannah]]
   - [[./manifesto-cognition.org][Cognition]]
+  - [[./manifesto-polis.org][Polis]]
   - [[./manifesto-fragility.org][Fragility]]
   - [[./manifesto-estrangement.org][Estrangement]]
   - [[./manifesto-social.org][Social]]
