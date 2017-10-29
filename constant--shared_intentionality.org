@@ -27,3 +27,53 @@
 
 * Introduction
 
+#+begin_quote
+We reach our cognitive limits about here: We can be aware
+that somebody A is working together with B using some tool C
+for achieving the common goal D. This relation between four
+items is called "shared intentionality" by Michael
+Tomasello. As you can notice, we don't even have a word in
+usual language for this type of relation. Nonetheless, it is
+quite important and it has plenty of consequences.
+(Tomasello and his colleagues describe some of them in this
+paper.)
+
+This type of behavior can be observed even among
+monkeys. For example I have seen a particularly spectacular
+clip with a bunch of baboons throwing stones at a lion and
+driving it away. But a baboon cannot even understand the
+concept of goal, even less that of shared
+intentionality. Nonetheless, sometimes they are doing it.
+
+When things get more complicated and we need to follow many
+items at once we are grouping them together based on some of
+their properties. For example, it would be literally
+impossible for the human brain to follow a football match if
+the teams wouldn't wear uniforms - thus making it easier for
+us to think the whole situation as "team A against team
+B". Researchers have discovered that we have serious
+difficulties in dealing with more than three groups of
+objects at once. (Read article.)
+
+-- [[http://news.softpedia.com/news/The-Limits-of-Human-Cognition-37388.shtml][The Limits of Human Cognition]]
+#+end_quote
+
+
+
+- [[http://news.softpedia.com/news/Why-Are-Uniforms-Uniform-27392.shtml][Why Are Uniforms Uniform?]]
+
+
+#+begin_src bibtex
+@article{tomasello:2007shared,
+  title={Shared intentionality},
+  author={Tomasello, Michael and Carpenter, Malinda},
+  journal={Developmental science},
+  volume={10},
+  number={1},
+  pages={121--125},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+
+#+end_src
