@@ -28,6 +28,63 @@
 * Introduction
 
 #+begin_quote
+Another way of describing this transition from the cognitive
+abilities of animals like dogs to those like the ones we
+have is to say that most animals understand the world just
+in a causal manner, while we also comprehend the
+informational connections between things. Moreover, we are
+capable of creating information connections between things.
+
+You can do a simple experiment with a dog: try to point to
+something in order to tell him to go there. The dog will
+just look at your finger. If you move your finger it will
+follow its motion. It is just incapable of understanding the
+idea that you're pointing at something. If you pretend to
+throw something to a certain location the dog might go
+looking for what it thinks you have thrown, but it will not
+understand you when you're just throwing information.
+
+We find the idea of pointing at something so natural that it
+is difficult to understand how complex this process really
+is. In fact in the wild not even chimpanzees use pointing -
+although when you point to things they can do better than
+just to look at your finger. Chimpanzees use pointing in the
+wild when they want to indicate to some other chimp that
+they wish to be scratched in some hard to reach point, but
+they don't point to other objects or animals.
+
+The ability of understanding informational relations depends
+on the ability of attributing goals to others because any
+information serves a certain purpose. If it wouldn't it
+wouldn't be information but just a causal relation. However,
+informational relations exist independent of whether there
+exists somebody capable of understanding informational
+relations. All the processes that make life possible are
+informational - the DNA stores certain information about how
+the life form must look like and behave, and this
+information is decoded by the chemical processes in the
+cell. Moreover, the blood carries not only the nutrients or
+the hemoglobin with oxygen, but also information in the form
+of hormones. And then of course there is the more modern
+informational highway - the nervous system. (Read more on
+information.)
+
+What I want to point out is that there are animals that have
+goals, but that are incapable of attributing goals either to
+others or to themselves. A bird for instance has a set of
+quite complex goals: it gathers leaves and sprigs for the
+purpose of building a nest, and it builds a nest for the
+purpose of keeping its chicks safe. But it isn't capable of
+understanding goals. It understands a predator for instance
+because the predator has certain properties and the bird
+reacts in such and such a way to a thing that has those
+"predator" properties. A dog can have the purpose of finding
+you when you're playing hide-and-seek, but, amazingly, it
+cannot understand that you have the goal of hiding from it
+(see article).
+
+---
+
 We reach our cognitive limits about here: We can be aware
 that somebody A is working together with B using some tool C
 for achieving the common goal D. This relation between four
@@ -59,8 +116,39 @@ objects at once. (Read article.)
 #+end_quote
 
 
+#+begin_quote
+"We found that humans are unable to store information from
+more than three sets at once," Halberda said. "This places
+an important constraint on how humans think about and
+interact with sets in the world."
 
-- [[http://news.softpedia.com/news/Why-Are-Uniforms-Uniform-27392.shtml][Why Are Uniforms Uniform?]]
+-- [[http://news.softpedia.com/news/Why-Are-Uniforms-Uniform-27392.shtml][Why Are Uniforms Uniform?]]
+#+end_quote
+
+#+begin_quote
+ For those who find it tough to juggle more than a couple
+ things at once, don't despair. The brain is set up to
+ manage two tasks, but not more, a new study suggests.
+
+That's because, when faced with two tasks, a part of the
+brain known as the medial prefrontal cortex (MFC) divides so
+that half of the region focuses on one task and the other
+half on the other task. This division of labor allows a
+person to keep track of two tasks pretty readily, but if you
+throw in a third, things get a bit muddled.
+
+"What really the results show is that we can readily divide
+tasking. We can cook, and at the same time talk on the
+phone, and switch back and forth between these two
+activities," said study researcher Etienne Koechlin of the
+Université Pierre et Marie Curie in Paris, France. "However,
+we cannot multitask with more than two tasks."
+
+-- [[https://www.livescience.com/10992-3.html][Why We Can't Do 3 Things at Once]]
+#+end_quote
+
+
+And of course there is a price to be paid for context switching...
 
 
 #+begin_src bibtex
@@ -75,5 +163,15 @@ objects at once. (Read article.)
   publisher={Wiley Online Library}
 }
 
+@article{charron2010divided,
+  title={Divided representation of concurrent goals in the human frontal lobes},
+  author={Charron, Sylvain and Koechlin, Etienne},
+  journal={Science},
+  volume={328},
+  number={5976},
+  pages={360--363},
+  year={2010},
+  publisher={American Association for the Advancement of Science}
+}
 
 #+end_src
