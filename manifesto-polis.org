@@ -24,6 +24,9 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+ <a href="https://www.patreon.com/chenla">
+	<img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
+
 
 * Introduction
 
