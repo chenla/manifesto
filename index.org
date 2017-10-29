@@ -51,6 +51,7 @@ contradict a =constant=.
  - [[./constant-speed-of-light.org][Speed of Light]]
  - [[./constant-dunbar.org][Dunbar's Number]]
  - [[./constant-millers-law.org][Miller's Law]] (7 plus or minus 2)
+ - [[./constant-divided-concurrent-goals.org][Divided Concurrent Goals]]
  - [[./constant--shared_intentionality.org][Shared Intentionality]]
 
 

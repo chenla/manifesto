@@ -1,0 +1,68 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Divided Concurrent Goals | Constant
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/manifesto/constant-divided-concurrent-goals.org
+:Created:   2017-10-29T21:48@Prek Leap (11.642600N-104.919210W)
+:ID:        013ae6c6-b767-42b0-9352-2a3f69088ad3
+:VER:       562560546.686573985
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:YMY2-0608
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
+
+#+begin_quote
+For those who find it tough to juggle more than a couple
+things at once, don't despair. The brain is set up to manage
+two tasks, but not more, a new study suggests.
+
+That's because, when faced with two tasks, a part of the
+brain known as the medial prefrontal cortex (MFC) divides so
+that half of the region focuses on one task and the other
+half on the other task. This division of labor allows a
+person to keep track of two tasks pretty readily, but if you
+throw in a third, things get a bit muddled.
+
+"What really the results show is that we can readily divide
+tasking. We can cook, and at the same time talk on the
+phone, and switch back and forth between these two
+activities," said study researcher Etienne Koechlin of the
+Université Pierre et Marie Curie in Paris, France. "However,
+we cannot multitask with more than two tasks."
+
+-- [[https://www.livescience.com/10992-3.html][Why We Can't Do 3 Things at Once]]
+#+end_quote
+
+
+And of course there is a price to be paid for context switching...
+
+
+#+begin_src bibtex
+@article{charron:2010divided,
+  title={Divided representation of concurrent goals in the human frontal lobes},
+  author={Charron, Sylvain and Koechlin, Etienne},
+  journal={Science},
+  volume={328},
+  number={5976},
+  pages={360--363},
+  year={2010},
+  publisher={American Association for the Advancement of Science}
+}
+
+#+end_src
