@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Miller's Law
+#+TITLE: Miller's Law (Seven, Plus or Minus Two) | Constant
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -27,9 +27,12 @@
 
 * Introduction
 
-
  - [[https://en.wikipedia.org/wiki/Miller%27s_law][Miller's law]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two][The Magical Number Seven, Plus or Minus Two]] | Wikipedia
  - [[http://www.musanim.com/miller1956/][The Magical Number Seven]] | George A. Miller
 
- 
+ I'm still trying to work out the implications of this
+ relative to everything we've been working on.
+
+We can only keep 7±2 in out head at one time
+
