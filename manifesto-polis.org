@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Polis | Manifesto
+#+TITLE: From Domus to Polis | Manifesto
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -25,6 +25,16 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 [[https://www.patreon.com/chenla][https://img.shields.io/badge/Patreon-contribute-yellow.svg]]
 
+
+  - we began on tha savannah
+  - we became sedantary in the marsh at the intersection
+    between three food webs
+  - we were then domesticated by cereals -- domus and became
+    vulnerable to crowding disease
+  - the walls went up to keep us in as much as others out
+    which was the beginning of the state
+  - writing systems began as accounting, not speech, as a
+    means of making people legible and collect taxes
 
 * Introduction
 
