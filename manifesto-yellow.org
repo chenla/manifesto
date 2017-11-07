@@ -24,6 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+* Quotes
 
 #+begin_quote
 The Earth is the cradle of the mind, but we cannot live
@@ -54,6 +55,17 @@ Pass it on.
 
 -- Alan Bennett, /The History Boys/
 #+end_quote
+
+* Big History
+
+We need to rewrite to match and become a companion with Big
+History project:
+
+ - [[https://en.wikipedia.org/wiki/Big_History_Project][Big History Project]] | Wikipedia
+ - [[https://www.youtube.com/watch?v=yqc9zX04DXs][The history of our world in 18 minutes]] | David Christian,
+   TEDx YouTube
+ - [[https://bighistory.org/the-little-book-of-big-history/][The Little Book of Big History]] | Ian Crofton (2017)
+ 
 
 * I.   The Yellow Brick Road
 
