@@ -40,7 +40,16 @@
 -- [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
 #+end_quote
 
-  - [[./manifesto-yellow.org][The Yellow Brick Road]]
+
+  - 1. The Big Bang
+  - 2. Stars Light Up
+  - 3. New Chemical Elements
+  - 4. Earth and the Solar System
+  - 5. Life on Earth
+  - 6. Collective Learning
+  - 7. Agricuture
+  - 8. The Modern Revolution
+
   - [[./manifesto-filters.org][Filters]]
   - [[./manifesto-life.org][Life]]
   - [[./manifesto-savannah.org][Savannah]]
@@ -58,8 +67,11 @@
 *  The Yellow Brick Road: a manifesto for an augmented distributed civilization
 
 The manifesto should map out the augmented distributed
-civilization we propose to build that will act as a film of
-soap overlaying the existing civilization.
+civilization we propose to build that will act like a 
+soap bubble overlaying the existing civilization.
+
+  - [[./manifesto-yellow.org][The Yellow Brick Road]]
+
 
 
 * Constants
