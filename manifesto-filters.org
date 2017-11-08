@@ -24,8 +24,14 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-This section will talk about several different types of
-filters.  The Big History folks call these thresholds, but
+We start by talking about entropy and information 
+
+-- then move on to complexity which is what makes the
+universe we live in and our existence possible.
+
+
+This section will talk about several different sets of
+filters.  The Big History folks call these /thresholds/, but
 we'll continue to frame it in terms of the [[https://en.wikipedia.org/wiki/Fermi_paradox][Fermi paradox]],
 and Drake's Equation but expand the concept to the entire
 universe.
@@ -33,6 +39,15 @@ universe.
   - [[http://www.osti.gov/accomplishments/documents/fullText/ACC0055.pdf]["Where is everybody?" An account of Fermi's question]] |
      Eric Jones (1985) Los Alamos National Laboratory
      OSTI ID 785733
+
+The other thing we will do is frame the evolution of the
+universe as Drake's Equation -- which includes variables for
+star formation and fraction of stars that have planets, and
+planets in the goldilocks zone.
+
+We can then expand on Drake to include the preconditions for
+the physical universe that are needed to support carbon
+based life on earth.
 
 We can do this, because the universe is, by definition,
 anthropic becuase the natural laws that emerged from the
