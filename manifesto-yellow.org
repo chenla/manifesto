@@ -122,6 +122,58 @@ had a bigger graphics budget) or the simple but powerful
 analogy that Sagan uses to be able to fit such mind blowing
 numbers into something that our poor ape brains can grasp.
 
+---
+
+The manifesto was getting too long and un-manifesto like so
+most of what I have now as the manifesto will move to the
+prologomenon. 
+
+The prologomenon will now server several purposes: 
+
+  - a collective model of the world for a community/movement
+  - an apology and or thesis that the manifesto is based on
+  - the foundation for our new liberal arts program
+  - a framework that we can use as an outline of knowledge
+    that replaces efforts like the traditional hierarchical
+    /Propædia/ by Mortimer Adler.  
+
+The Propædia never really caught on in the way that Alder
+envisoned.  He saw it as a framework for all knowledge,
+education and a model of the sum total of what we
+collectively know as a species.  For a while, it was the
+first of three parts of the Encyclopedia Briticannica.
+
+The [[https://en.wikipedia.org/wiki/Prop%C3%A6dia][Propædia]] and [[https://en.wikipedia.org/wiki/Microp%C3%A6dia][Micropædia]] were intended to replace the
+Index, and the [[https://en.wikipedia.org/wiki/Macrop%C3%A6dia][Macropædia]] was the main body of the
+encyclopedia that was in turn made up of articles that
+provided introductions and overviews to larger topics, which
+would then point, in the references to all the papers and
+works that make up the body of knowledge.
+
+This concept was a big influence on many of my original
+ideas in BMF.  Scope, Micro and Macro notes were intended to
+work in the same way as Adler's vision for Britannica.
+
+It turned out to be a clunky interface in physical print.
+The [[https://en.wikipedia.org/wiki/Microp%C3%A6dia][Micropædia]] was a poor replacement for the index.  But it
+might have been an excellent electronic interface, where the
+Micropædia entries could be returned as search results, and
+the Propædia be used as a framework for a thesaurus of terms
+for everthing in the Micropædia which would become in effect
+a graph database.
+
+At first glance it would seem that Wikipedia has rendered
+this vision obsolete, but I don't see it that way.  
+
+Rather, wikipedia could be seen as a first, living draft of
+a Macropædia that is always in the process of becoming
+something else.  But it provides no /intellectus/, no way of
+seeing how everything fits together.  It's just one dam
+article after another.  And Wikipedia is poor at being a
+gateway to all literature on a subject.  That's not a
+criticism, it's just the way that it was designed.  But that
+is very much needed.
+
 
 * I.   The Yellow Brick Road
 
