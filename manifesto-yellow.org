@@ -58,14 +58,70 @@ Pass it on.
 
 * Big History
 
-We need to rewrite to match and become a companion with Big
-History project:
+Big History is pretty fucking cool.  The idea is to tell the
+story of the universe (us included) from the perspective of
+complexity thresholds since the Big Bang.
 
  - [[https://en.wikipedia.org/wiki/Big_History_Project][Big History Project]] | Wikipedia
  - [[https://www.youtube.com/watch?v=yqc9zX04DXs][The history of our world in 18 minutes]] | David Christian,
    TEDx YouTube
  - [[https://bighistory.org/the-little-book-of-big-history/][The Little Book of Big History]] | Ian Crofton (2017)
+
+Before Big History is the masterful /Cosmos/ by Carl Sagan
+which was both a book and television series.
  
+Big History uses a timeline, whereas Sagan uses a /Cosmic
+Calendar/ which he first used in his book /Dragon's of Eden/
+which presents the 13.7byr history of the universe as a
+single calendar month.  This is a far better way for people
+to understand the scale of the universe and our place in
+it.  The timeline needs to compress the space where there is
+little information and expand the space where there is more
+information which, like 2D map projections of a globe deform
+time scales to be able to fit in a space that can be seen at
+a glance.  This is not a bad thing, everything is a
+tradeoff.  But Sagan's Calendar is better at helping us
+understand how small and short a time we have been on the
+cosmic stage.
+
+ - [[http://www.cosmiccalendar.net/#The_Cosmic_Calendar][cosmiccalendar.net]] | sagan's cosmic calendar
+ - [[http://palaeos.com/time/cosmic_calendar.html][Palaeos: Time: The Cosmic Calendar]]
+
+Big History is brilliant, with fantastic graphics.  But the
+text is a little dry, it doesn't have the poetry or passion
+that Sagan brought to everything.  That's not entirely true,
+David Christian's performance at TEDx was fantastic.
+
+The just released /Little Book of Big History/ seems very
+good, but it just doesn't have Sagan's genius.
+
+The other thing is that the emergence of man and how
+civilization emerged is still using the same traditional
+idea of civilization arising suddenly after adoption of
+agriculture.  It does not deal with any of the new evidence
+that has been piling up over the past 20 years that paints a
+very different picture.  And ignores the fact that states
+(which are the define and demarcate civilization) were,
+until the past 200 years, little more than tiny islands that
+under went continious cycles of boom, bust and abandonment
+which are more often than not dumped under the collective
+ruberic of /dark ages/.  The implication is that dark is
+bad, a step backwards, when in fact it is literaly just a
+dearth of information because little or nothing has survived
+from those periods.
+
+Wait, But Why? has one of the best means of visualizing time
+that I've ever seen:
+
+  - [[https://waitbutwhy.com/2013/08/putting-time-in-perspective.html][Putting Time In Perspective]] | Wait But Why
+
+He uses a series of growing timelines.  This works quite
+well but doesn't have the same massive in your face impact
+that Big History's massive timeline has (mostly because they
+had a bigger graphics budget) or the simple but powerful
+analogy that Sagan uses to be able to fit such mind blowing
+numbers into something that our poor ape brains can grasp.
+
 
 * I.   The Yellow Brick Road
 
