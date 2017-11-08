@@ -24,37 +24,6 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* Quotes
-
-#+begin_quote
-The Earth is the cradle of the mind, but we cannot live
-forever in a cradle. 
-
--- Konstantin Tsiolkovsky (1857-1935)
-#+end_quote
-
-
-#+begin_quote
-You can't cross the sea merely by standing and staring at 
-the water.
-
--- Rabindranath Tagore (1861-1941)
-#+end_quote
-
-
-#+begin_quote
-You begin saving the world by saving one man at a time; all
-else is grandiose romanticism or politics.
-
--- Charles Bukowski (1920-1994)
-#+end_quote
-
-#+begin_quote
-Pass it on .... That's the game I want you to learn to play.
-Pass it on.
-
--- Alan Bennett, /The History Boys/
-#+end_quote
 
 * Big History
 
@@ -95,21 +64,6 @@ David Christian's performance at TEDx was fantastic.
 The just released /Little Book of Big History/ seems very
 good, but it just doesn't have Sagan's genius.
 
-The other thing is that the emergence of man and how
-civilization emerged is still using the same traditional
-idea of civilization arising suddenly after adoption of
-agriculture.  It does not deal with any of the new evidence
-that has been piling up over the past 20 years that paints a
-very different picture.  And ignores the fact that states
-(which are the define and demarcate civilization) were,
-until the past 200 years, little more than tiny islands that
-under went continious cycles of boom, bust and abandonment
-which are more often than not dumped under the collective
-ruberic of /dark ages/.  The implication is that dark is
-bad, a step backwards, when in fact it is literaly just a
-dearth of information because little or nothing has survived
-from those periods.
-
 Wait, But Why? has one of the best means of visualizing time
 that I've ever seen:
 
@@ -128,7 +82,7 @@ The manifesto was getting too long and un-manifesto like so
 most of what I have now as the manifesto will move to the
 prologomenon. 
 
-The prologomenon will now server several purposes: 
+The prologomenon will now serve several purposes: 
 
   - a collective model of the world for a community/movement
   - an apology and or thesis that the manifesto is based on
@@ -173,6 +127,39 @@ article after another.  And Wikipedia is poor at being a
 gateway to all literature on a subject.  That's not a
 criticism, it's just the way that it was designed.  But that
 is very much needed.
+
+* Quotes
+
+#+begin_quote
+The Earth is the cradle of the mind, but we cannot live
+forever in a cradle. 
+
+-- Konstantin Tsiolkovsky (1857-1935)
+#+end_quote
+
+
+#+begin_quote
+You can't cross the sea merely by standing and staring at 
+the water.
+
+-- Rabindranath Tagore (1861-1941)
+#+end_quote
+
+
+#+begin_quote
+You begin saving the world by saving one man at a time; all
+else is grandiose romanticism or politics.
+
+-- Charles Bukowski (1920-1994)
+#+end_quote
+
+#+begin_quote
+Pass it on .... That's the game I want you to learn to play.
+Pass it on.
+
+-- Alan Bennett, /The History Boys/
+#+end_quote
+
 
 
 * I.   The Yellow Brick Road
