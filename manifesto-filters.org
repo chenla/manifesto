@@ -24,6 +24,48 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+This section will talk about several different types of
+filters.  The Big History folks call these thresholds, but
+we'll continue to frame it in terms of the Fermi Paradox,
+but expand the concept to the entire universe.
+
+We can do this, because the universe is, by definition,
+anthropic becuase the natural laws that emerged from the
+initial conditions of the big bang make life possible.
+Change those initial conditions slightly and you get a
+universe that can not support the kind of complexity that
+results in life.
+
+We can use multiple sets of filters.
+
+  - Cosmic Filters :: that resulted in galaxies, with stars
+                      that produce a wide variety of
+                      elements and support small rocky
+                      planets in a goldilocks zone.
+
+  - Life Filters   :: Life on Earth has gone through a
+                      number of filters as well that have
+                      determined how life has evolved. These
+                      have been governed by extinction
+                      events from Climate change triggered
+                      by asteroid impacts and in at least
+                      one case, the extinction of CO2 based
+                      life which produced so much waste
+                      oxygen that it eventually destroyed
+                      everything.
+
+   - Anthropic     :: The evolution of man, as a species and
+                      eventually as a civilization. 
+
+Each filter required goldilocks conditions in order to go to
+the next step.  Without these conditions, things would have
+been stuck at a certain level, or resulted in collapse or
+destruction.   This is why we use the term /filter/ instead
+of /threshold/.
+
+
+
+----
 
 start with life arising after the earth cools -- it could
 have arisen here, or elsewhere and piggybacked on a comet or
