@@ -26,8 +26,13 @@
 
 This section will talk about several different types of
 filters.  The Big History folks call these thresholds, but
-we'll continue to frame it in terms of the Fermi Paradox,
-but expand the concept to the entire universe.
+we'll continue to frame it in terms of the [[https://en.wikipedia.org/wiki/Fermi_paradox][Fermi paradox]],
+and Drake's Equation but expand the concept to the entire
+universe.
+
+  - [[http://www.osti.gov/accomplishments/documents/fullText/ACC0055.pdf]["Where is everybody?" An account of Fermi's question]] |
+     Eric Jones (1985) Los Alamos National Laboratory
+     OSTI ID 785733
 
 We can do this, because the universe is, by definition,
 anthropic becuase the natural laws that emerged from the
@@ -57,11 +62,28 @@ We can use multiple sets of filters.
    - Anthropic     :: The evolution of man, as a species and
                       eventually as a civilization. 
 
-Each filter required goldilocks conditions in order to go to
+I prefer to use multiple sets of filters instead of one huge
+one for the simple reason that conflating human filters that
+happen at cosmic scales, or even planetary scales is not
+terribly humble -- if for no other reason than we don't know
+how common life is in the universe.  If it's common, then
+it's uncertain what complexity filters would be true
+collectively for life.  And the same goes for anthropic
+filters.  When talking about this we should explain that
+unless we have evidence to the contrary we should assume
+that the [[https://en.wikipedia.org/wiki/Mediocrity_principle][mediocrity principle]] holds true..
+
+The other reason to maintain different sets is that many
+anthropic filters overlap with life filters.
+
+
+Each filter requires goldilocks conditions in order to go to
 the next step.  Without these conditions, things would have
 been stuck at a certain level, or resulted in collapse or
 destruction.   This is why we use the term /filter/ instead
 of /threshold/.
+
+
 
 
 
