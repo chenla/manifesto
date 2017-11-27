@@ -24,6 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:~/proj/chenla/hoard/bib.bib
 
 * Big History
 
@@ -31,9 +32,13 @@ Big History is pretty fucking cool.  The idea is to tell the
 story of the universe (us included) from the perspective of
 complexity thresholds since the Big Bang.
 
- - [[https://en.wikipedia.org/wiki/Big_History_Project][Big History Project]] | Wikipedia
- - [[https://www.youtube.com/watch?v=yqc9zX04DXs][The history of our world in 18 minutes]] | David Christian,
-   TEDx YouTube
+
+ - Wikipedia, , /Big history project --- wikipedia, the free encyclopedia/ (2017).
+   cite:wiki:2017big-history-project
+ - Christian, D., /The history of our world in 18 minutes | david christian/ (2011).
+   cite:ted:2011:history-david-christian
+
+
  - [[https://bighistory.org/the-little-book-of-big-history/][The Little Book of Big History]] | Ian Crofton (2017)
 
 Before Big History is the masterful /Cosmos/ by Carl Sagan
