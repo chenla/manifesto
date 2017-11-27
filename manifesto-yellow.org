@@ -53,6 +53,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - Sagan, C., Cosmos (1985), : Ballantine Books.
    cite:sagan:1985cosmos 
 
+ - https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)
+
+ - Cosmos TV Series
+
+ - https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
+
+ - https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
+
+ - https://en.wikipedia.org/wiki/A_Brief_History_of_Time
+
+** Representing Time
+
+ - https://en.wikipedia.org/wiki/Cosmic_Calendar
+
+
+
 Big History is pretty fucking cool.  The idea is to tell the
 story of the universe (us included) from the perspective of
 complexity thresholds since the Big Bang.
