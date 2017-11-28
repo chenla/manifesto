@@ -4,6 +4,14 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* The Yellow Brick Road
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/manifesto/manifesto-yellow.org
@@ -18,15 +26,9 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
 bibliography:~/proj/chenla/hoard/bib.bib
 
-* Brief Histories of the Universe, Earth and Man
+** Brief Histories of the Universe, Earth and Man
 
 
  - Bronowski, J., The ascent of man (2011), : BBC Digital.
@@ -156,7 +158,7 @@ gateway to all literature on a subject.  That's not a
 criticism, it's just the way that it was designed.  But that
 is very much needed.
 
-* Quotes
+** Quotes
 
 #+begin_quote
 The Earth is the cradle of the mind, but we cannot live
@@ -190,7 +192,7 @@ Pass it on.
 
 
 
-* I.   The Yellow Brick Road
+** I.   The Yellow Brick Road
 
 Is there anybody out there?  The question hangs in the air,
 everyone holding their breath, straining to hear in the
