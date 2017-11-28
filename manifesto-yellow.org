@@ -51,19 +51,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
    cite:hawking:1988brief,hawking:1998brief
  - Bronowski, J., The ascent of man (2011), : BBC Digital.
    cite:bronowski:2011ascent
-
-
-** Representing Time
-
  - Wikipedia, , /Cosmic calendar --- wikipedia, the free
    encyclopedia/ (2017). 
    cite:wiki:2017cosmic-calendar
+ - Bryson, B., A short history of nearly everything
+   (2003), : Broadway Books.
+   cite:bryson:2003short
 
-
- - [[http://www.cosmiccalendar.net/#The_Cosmic_Calendar][cosmiccalendar.net]] | sagan's cosmic calendar
-
- - [[http://palaeos.com/time/cosmic_calendar.html][Palaeos: Time: The Cosmic Calendar]]
-
+** Representing Time
 
 Big History is pretty fucking cool.  The idea is to tell the
 story of the universe (us included) from the perspective of
@@ -86,8 +81,6 @@ a glance.  This is not a bad thing, everything is a
 tradeoff.  But Sagan's Calendar is better at helping us
 understand how small and short a time we have been on the
 cosmic stage.
-
-
 
 Big History is brilliant, with fantastic graphics.  But the
 text is a little dry, it doesn't have the poetry or passion
