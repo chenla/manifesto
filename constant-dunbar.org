@@ -4,6 +4,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+* Dunbar's Number | Constant
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/manifesto/constant-dunbar.org
@@ -18,20 +28,25 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 
 The cognitive limit of the number of people with whom a person can
 maintain a stable social relationship.  The number is between 100 and
 250 with the comfortable limit usually around 150.
 
+** References
 
-
- - [[https://en.wikipedia.org/wiki/Dunbar%27s_number][Dunbar's number]] | Wikipedia
+ - Wikipedia, , /Dunbar's number --- wikipedia, the free
+   encyclopedia/ (2017). 
+   cite:wiki:2017dunbars-number
+ - Dunbar, R. I., Neocortex size as a constraint on group
+   size in primates, Journal of human evolution, 22(6),
+   469–493 (1992).
+   cite:dunbar:1992neocortex
+ - Putman, R. D., Bowling alone - the collapse and revival
+   of american community (2000), : Simon & Schuster.
+   cite:putnam:2000bowling
+ - Wikipedia, , /Bowling alone --- wikipedia, the free
+   encyclopedia/ (2017).  cite:wiki:2017bowling
