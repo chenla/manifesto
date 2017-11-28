@@ -50,3 +50,7 @@ maintain a stable social relationship.  The number is between 100 and
    cite:putnam:2000bowling
  - Wikipedia, , /Bowling alone --- wikipedia, the free
    encyclopedia/ (2017).  cite:wiki:2017bowling
+ - Gladwell, M., The tipping point: how little things can
+   make a big difference (2002), : Little, Brown and
+   Company.
+   cite:gladwell:2002tipping
