@@ -11,6 +11,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:~/proj/chenla/hoard/bib.bib
+
 * Divided Concurrent Goals | Constant
 :PROPERTIES:
 :CUSTOM_ID: 
@@ -51,20 +53,7 @@ we cannot multitask with more than two tasks."
 -- [[https://www.livescience.com/10992-3.html][Why We Can't Do 3 Things at Once]]
 #+end_quote
 
-
-And of course there is a price to be paid for context switching...
-
-
-#+begin_src bibtex
-@article{charron:2010divided,
-  title={Divided representation of concurrent goals in the human frontal lobes},
-  author={Charron, Sylvain and Koechlin, Etienne},
-  journal={Science},
-  volume={328},
-  number={5976},
-  pages={360--363},
-  year={2010},
-  publisher={American Association for the Advancement of Science}
-}
-
-#+end_src
+ - Charron, S., & Koechlin, E., Divided representation of
+   concurrent goals in the human frontal lobes, Science,
+   328(5976), 360–363 (2010).
+   cite:charron:2010divided
