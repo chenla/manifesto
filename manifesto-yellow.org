@@ -52,16 +52,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
    cite:wilbur:1996brief
  - Sagan, C., Cosmos (1985), : Ballantine Books.
    cite:sagan:1985cosmos 
+ - Wikipedia, , /Cosmos (carl sagan book) --- wikipedia, the
+   free encyclopedia/ (2017).
+   cite:wiki:2017cosmos-book
+ - Wikipedia, , /Cosmos: a personal voyage --- wikipedia,
+   the free encyclopedia/ (2017).
+   cite:wiki:2017cosmos-a-personal-voyage
+ - Wikipedia, , /Cosmos: a spacetime odyssey --- wikipedia,
+   the free encyclopedia/ (2017).
+   cite:wiki:2017cosmos-spacetime-odyssey
+ - Hawking, S., A brief history of time (1998), : Bantam Press.
+   cite:hawking:1988brief,hawking:1998brief
+ - Wikipedia, , /A brief history of time --- wikipedia, the
+   free encyclopedia/ (2017).
+   cite:wiki:2017brief-history-of-time
+ - Bronowski, J., The ascent of man (2011), : BBC Digital.
+   cite:bronowski:2011ascent
 
- - https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)
-
- - Cosmos TV Series
-
- - https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
-
- - https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey
-
- - https://en.wikipedia.org/wiki/A_Brief_History_of_Time
 
 ** Representing Time
 
