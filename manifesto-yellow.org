@@ -11,6 +11,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:~/proj/chenla/hoard/bib.bib
+
 * The Yellow Brick Road
 :PROPERTIES:
 :CUSTOM_ID: 
@@ -26,10 +28,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-bibliography:~/proj/chenla/hoard/bib.bib
-
 ** Brief Histories of the Universe, Earth and Man
-
 
  - Bronowski, J., The ascent of man (2011), : BBC Digital.
    cite:bronowski:2011ascent
@@ -61,6 +60,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
     cite:wilbur:2001brief,wilbur:1996brief
  - Urban, T., /Putting time in perspective – updated/ (2013).
    cite:urban:2013putting-time
+
+ cite:peters:1998spotting
 
 ** Representing Time
 
