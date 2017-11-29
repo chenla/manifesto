@@ -31,10 +31,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Introduction
 
-
 The cognitive limit of the number of people with whom a person can
 maintain a stable social relationship.  The number is between 100 and
 250 with the comfortable limit usually around 150.
+
+** Tasks 
+
+*** TODO Lookup Dunbar in APL
+*** TODO Lookup Dunbar in Mollison
+
+
 
 ** References
 
@@ -54,3 +60,4 @@ maintain a stable social relationship.  The number is between 100 and
    make a big difference (2002), : Little, Brown and
    Company.
    cite:gladwell:2002tipping
+
