@@ -1,6 +1,16 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 #+TITLE:   Manifesto | TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Manifesto | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:      /home/deerpig/proj/chenla/manifesto/index.org
@@ -15,15 +25,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-* Manifesto | Table of Contents
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* The Warp and Woof: A Scopic Prologomenon
+** The Warp and Woof: A Scopic Prologomenon
 
 #+begin_quote
 1. warp and woof(Noun)
@@ -68,7 +70,7 @@
   - [[./manifesto-stories.org][Stories]]
   - [[./manifesto-window.org][Window]]
 
-*  The Yellow Brick Road: a manifesto for an augmented distributed civilization
+** The Yellow Brick Road: a manifesto for an augmented distributed civilization
 
 The manifesto should map out the augmented distributed
 civilization we propose to build that will act like a 
@@ -78,7 +80,7 @@ soap bubble overlaying the existing civilization.
 
 
 
-* Constants
+** Constants
 
 Constants are bedrock variables that define things that can
 not be changed like the speed of light or dunbar's number.
@@ -93,7 +95,7 @@ contradict a =constant=.
  - [[./constant--shared_intentionality.org][Shared Intentionality]]
 
 
-* Theses
+** Theses
 
 Scopic Theses are declarations that provide a foundation for
 a =civil ruleset= for people to live and cooperate with each
@@ -103,7 +105,7 @@ other.  Our theses is a social fiction that defines how we
  - [[./theses-preamble.org][Preamble]]
  - [[./theses-notes.org][Theses Notes]]
 
-* Patterns
+** Patterns
 
 Patterns are repeating themes in nature, design and human
 behavior that when combined with other patterns strengthen
@@ -111,7 +113,7 @@ each other and create things that are larger than the sum of
 their parts.
 
 
-* Roadmap
+** Roadmap
 
 A Roadmap for Mankind over the next 50 years to move from
 being a centralized global civilization, with crtical
