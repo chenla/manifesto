@@ -123,7 +123,7 @@ Our language will be called:
 
   - A Pace-Layer Pattern Language (APPL), ???
   
-which will be made up of six parts:
+which will be made up of seven parts:
 
   - 6 Fashion
   - 5 Commerce
@@ -138,7 +138,7 @@ Each layer has a different =Rate of Change= (ROC) with
 the top in a constant state of churn, changing at a staccato
 rapid-fire beat.
 
-We add a 7th group called /Meta/ for patterns
+We added a 7th group called /Meta/ for patterns
 that apply to all layers which will be given the number 0
 below /nature/ which is number 1.
 
@@ -148,6 +148,65 @@ Patterns will have keys (unique ids) in the form of:
 
 So the first pattern in the Meta group would have the key
 APPL0:0001.
+
+*** 1. Nature
+
+We divide nature into the realms of the physical universe
+and the subset of that and the tiny subset of that that
+makes up the living universe.
+
+We are a part of both realms and we impact and are impacted
+by both realms.  We are part of nature, there is no them and
+us.  This is very difficult concept for modern man to
+comprehend because we have convinced ourselves that we are
+exceptional and outside of nature.  Gravity applies to us
+the same way as every other thing in the universe.  Jump out
+of a airplane without something to slow us down like a
+parachute and we will splat just like a watermelon.
+
+A city is part of nature as much as the most isolated meadow
+in on the Tibetan Plateau.  Both belong to and depend on the
+same pressurized atmosphere, and protection from solar and
+cosmic radiation to support life.  You can say that the
+meadow is nature uneffected by man, but that isn't exactly
+true either.  Mankind has been shaping the world for tens of
+thousands of years using fire long before the first
+civlizations emerged in the alluvial wetlands of Mesopotamia
+that fundementally changed the biodiversity of broad swaths
+of the planet, especially megafuana.  Cliff paintings
+overlooking the Mekong River portray a number of different
+types of megafauna that are now long extinct.  The most
+likely explanation for the extinction of species like pygmy
+rhinos and the giant sloth is man.  Other megafauna, which
+could reproduce quickly and were more fleet of foot than the
+sloth such as antelope, deer, caribou and elk flourished as
+a reliable food source managed by using fire to shape
+habitats which encouraged those species.  It can be argued
+that mankind terraformed the planet with fire.
+
+/Nature/ patterns are concerned with Mankind's interaction
+with nature, both physical and living.
+
+The degree of that interaction can be divided into wild and
+cultivated.  We used to be quite good at managing the wild,
+but got lost when we turned to pure cultivation and
+eventually began to see the wild as something in opposition
+to and an enemy of the cultivated.  In modern times, those
+who call themselves environmentalists and conservationists
+are no less guilty of this false dichotomy.  We need to stop
+thinking of things in terms of us vs them, nature knows no
+such divisions.  We can not become one with nature, because
+we were never apart from nature in the first place.
+
+When talking about the realm of life we will use the concept
+of /habitats/ that contain /biospheres/ that are sometimes
+divided into /biomes/ that contain life.  At the time that
+this is being written there are only two biospheres that we
+are aware of, the planetary biosphere that envelops Earth
+and a tiny biosphere in low earth orbit called the ISS
+(International Space Station).  Eventually there will be
+more biospheres, both planetary and artificial.
+
 
 
 ** Constants
