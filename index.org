@@ -94,9 +94,14 @@ that supported the construction of beautiful buildings.
 
 Our pattern language has a far broader scope; building an
 antifragile civilization for mankind.  It is such a broad,
-ambitious scope that it borders on hubris.  After all we
+and ambitious scope that it borders on hubris.  After all we
 barely agree on what civilization is, let alone how to build
-one from first principles.
+one from first principles.  Though the undertaking is
+assuredly fated to fall fall short of it's goals, it is
+important to instigate a tradition of people and
+institutions to try.  Over many generations such
+investigations could well become the foundation for and
+roadmap for our survival and hopefully, prosperity.
 
 But if Mankind is to become antifragile, we must become as
 distributed as possible.  That means, among other things we
@@ -109,7 +114,19 @@ civilization and eventually as a species.
 
 The pattern language is organized around Steward Brand's
 six-layer /Pace Layer/ model which is based on the
-observation that different things change at different speeds.
+observation that different things change at different
+speeds.
+
+Our language will be called the =Pace Layer Pattern
+Language= (PLPL) which will be made up of six parts:
+
+  - Fashion
+  - Commerce
+  - Infrastructure
+  - Governance
+  - Culture
+  - Nature
+
 
 ** Constants
 
