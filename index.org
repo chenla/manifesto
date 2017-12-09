@@ -78,7 +78,38 @@ soap bubble overlaying the existing civilization.
 
   - [[./manifesto-yellow.org][The Yellow Brick Road]]
 
+** Patterns
 
+Patterns are repeating themes in nature, design and human
+behavior that when combined with other patterns strengthen
+each other and create things that are larger than the sum of
+their parts.
+
+APL was divided into three parts, Towns, Buildings and
+Construction.  But APL is a pattern language for
+architecture and buildings.  For this to work it had to
+define many patterns that more properly belonged to urban
+planning, culture and governance though these were patterns
+that supported the construction of beautiful buildings.
+
+Our pattern language has a far broader scope; building an
+antifragile civilization for mankind.  It is such a broad,
+ambitious scope that it borders on hubris.  After all we
+barely agree on what civilization is, let alone how to build
+one from first principles.
+
+But if Mankind is to become antifragile, we must become as
+distributed as possible.  That means, among other things we
+need to be thinking beyond our own planet and how we can
+leverage the mind boggling wealth that we have in our solar
+system.  We have outgrown the carrying capacity of our
+fragile pale blue dot and we need to start tapping
+extraterrestrial resources or perish, certainly as a
+civilization and eventually as a species.
+
+The pattern language is organized around Steward Brand's
+six-layer /Pace Layer/ model which is based on the
+observation that different things change at different speeds.
 
 ** Constants
 
@@ -104,13 +135,6 @@ other.  Our theses is a social fiction that defines how we
 
  - [[./theses-preamble.org][Preamble]]
  - [[./theses-notes.org][Theses Notes]]
-
-** Patterns
-
-Patterns are repeating themes in nature, design and human
-behavior that when combined with other patterns strengthen
-each other and create things that are larger than the sum of
-their parts.
 
 
 ** Roadmap
