@@ -97,7 +97,7 @@ antifragile civilization for mankind.  It is such a broad,
 and ambitious scope that it borders on hubris.  After all we
 barely agree on what civilization is, let alone how to build
 one from first principles.  Though the undertaking is
-assuredly fated to fall fall short of it's goals, it is
+assuredly fated to fall far short of it's goals, it is
 important to instigate a tradition of people and
 institutions to try.  Over many generations such
 investigations could well become the foundation for and
@@ -115,17 +115,39 @@ civilization and eventually as a species.
 The pattern language is organized around Steward Brand's
 six-layer /Pace Layer/ model which is based on the
 observation that different things change at different
-speeds.
+speeds.  The model began as an observation that buildings
+can be thought of as being made of multiple layers with each
+changing over time at different speeds.
 
-Our language will be called the =Pace Layer Pattern
-Language= (PLPL) which will be made up of six parts:
+Our language will be called: 
 
-  - Fashion
-  - Commerce
-  - Infrastructure
-  - Governance
-  - Culture
-  - Nature
+  - A Pace-Layer Pattern Language (APPL), ???
+  
+which will be made up of six parts:
+
+  - 6 Fashion
+  - 5 Commerce
+  - 4 Infrastructure
+  - 3 Governance
+  - 2 Culture
+  - 1 Nature
+  - 0 Meta
+
+Each layer has a different =Rate of Change= (ROC) with
+/Nature/ at the bottom being the slowest and /Fashion/ at
+the top in a constant state of churn, changing at a staccato
+rapid-fire beat.
+
+We add a 7th group called /Meta/ for patterns
+that apply to all layers which will be given the number 0
+below /nature/ which is number 1.
+
+Patterns will have keys (unique ids) in the form of:
+
+   APPL[layer#]:[Pattern#]
+
+So the first pattern in the Meta group would have the key
+APPL0:0001.
 
 
 ** Constants
