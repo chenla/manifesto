@@ -119,11 +119,7 @@ speeds.  The model began as an observation that buildings
 can be thought of as being made of multiple layers with each
 changing over time at different speeds.
 
-Our language will be called: 
-
-  - A Pace-Layer Pattern Language (APPL), ???
-  
-which will be made up of seven parts:
+Brand's model was made up of six parts:
 
   - 6 Fashion
   - 5 Commerce
@@ -133,30 +129,32 @@ which will be made up of seven parts:
   - 1 Nature 
 
 
-  |         | 8 Fashion        |
-  |         | 7 Commerce       |
-  | Anthros | 6 Infrastructure |
-  |         | 5 Governance     |
-  |         | 4 Culture        |
-  |---------+------------------|
-  |         | 3 Bios           |
-  | Nature  | 2 Lithos         |
-  |         | 1 Cosmos         |
-  |---------+------------------|
-  | Meta    | 0                |
+Our language will be called /A Pace-Layer Pattern Language/
+(APPL), which will be made up of 9 parts that combine
+Brand's and Saffo's Pace Layer models into one.
+
+  |---------+------------------+------|
+  |         | 8 Fashion        |      |
+  |         | 7 Commerce       | Fast |
+  | Anthros | 6 Infrastructure |      |
+  |         | 5 Governance     |      |
+  |         | 4 Culture        |      |
+  |---------+------------------+------|
+  |         | 3 Bios           |      |
+  | Natura  | 2 Lithos         | Slow |
+  |         | 1 Cosmos         |      |
+  |---------+------------------+------|
+  | Meta    | 0                |      |
 
 
+The 9th group called /Meta/ contains patterns that apply to
+all layers which will be given the number 0 below /cosmos/
+which is number 1.
 
 Each layer has a different =Rate of Change= (ROC) with
-/Nature/ at the bottom being the slowest and /Fashion/ at
+/Cosmos/ at the bottom being the slowest and /Fashion/ at
 the top in a constant state of churn, changing at a staccato
 rapid-fire beat.
-
-"the fast parts learn, the slow parts remember"
-
-We added a 7th group called /Meta/ for patterns
-that apply to all layers which will be given the number 0
-below /nature/ which is number 1.
 
 Patterns will have keys (unique ids) in the form of:
 
@@ -212,7 +210,13 @@ the lower the number the shorter the timespan
 
 **** Japanese mayor (story from audience member)
 
-Was major for over 40 years and in that time went against and fought
+An classic example of long term application of /timespan of
+discretion/.
+
+http://www.dailymail.co.uk/news/article-1386978/The-Japanese-mayor-laughed-building-huge-sea-wall--village-left-untouched-tsunami.html
+http://blog.nihongo-pro.com/2011/04/mayors-vision-saves-japanese-village.html
+
+Was mayor for over 40 years and in that time went against and fought
 to build a tsunami barrier for this town.  He died before it was ever
 used but the barrier saved the town.
 
@@ -222,12 +226,81 @@ People don't grok exponential growth
 
 pace layers turn Hockey Sticks into S-Curves
 
+**** The Apsara of Context, Scale, Time and Change
 
-*** 1. Nature
+Though not discussed in the talk, the other two things that
+we can't grok are /size/ and /time/ at scales that are
+outside of human empirical limits.
 
-We divide nature into the realms of the /physical/ universe
-and the tiny subset of that which makes up the /living/
-universe.
+Taken together /rate-of-change/ (ROC), /level-detail/ (LOC)
+and /point-of-view/ (POV) are the three things that define
+the context of almost anything.  They are also are our
+biggest blindspots when any of the three fall outside of
+human scales and comprehension.
+
+One of the Meta goals of our project is to find ways to help
+us as individuals and collectively to make these things
+comprehensible so that we act on them when it is necessary.
+
+Climate Change is a problem because we can not comprehend
+the problem that we have created for ourselves.  The Long
+Now Foundation focuses on long term thinking and
+perspectives but scale and change are equally important.
+
+*** Nature
+
+We divide nature into the /1 cosmos/, /2 lithos/ (as in the
+lithosphere) and /3 bios/ as in the biosphere.
+
+Cosmos includes everything in the universe down to planetary
+or planetoid scales.
+
+Lithos (meaning rock) is any planet or planetoid where
+mankind might end up hanging his hat or exploiting in some
+manner.  Lithos includes artificial planetoids that are
+meant to be habitats including everything from the ISS to
+large scale habitats housing thousands or even millions of
+people.
+
+Bios is any biosphere that supports life that is contained
+in a /lithos/.
+
+Putting it all together:
+
+The Universe is the Cosmos.  But more practically, the
+pattern language will be concerned with our Solar System as
+a /system/ which includes the Sun, planets, planetoids
+orbiting it and the mechanics of moving around in it and
+dealing with things like solar and cosmic radiation, light,
+heat and electromagnetism and how all of this pertains to
+building and maintaining an life and specifically an
+antifragile distributed civilization.
+
+The lithos is any physical inanimate natural or manmade body
+that is exploited or used to create a habitat irrespective
+of whether the body is habitable.
+
+On earth the core, mantel and crust would be the lithosphere
+and the biosphere is the thin envelop made up of an
+atmosphere and a hydrosphere where life can exist.
+
+The structure and shell of the ISS would be the lithos and
+the atmosphere within and the machinery for maintaining
+pressure, temperature and scrubbing C0^2 would be its
+biosphere.
+
+/Anthros/ layers are anything within a biosphere and follows
+Steward Brand's five layers, culture, governance,
+infrastructure, commerce and fashion.  There is always a
+tradeoff when you define models like this because you are
+indicating organization for the purpose of understanding
+something that doesn't exist.  The layers are a useful way
+of understanding how different aspects of civilization that
+change at different speeds interact with each other.
+
+
+
+----
 
 We are a part of both realms and we impact and are impacted
 by both realms.  We are part of nature, there is no them and
