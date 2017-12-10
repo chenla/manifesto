@@ -184,6 +184,48 @@ APPL0:0001.
   | innovation/revolution    | constrainy/constancy |
   | *gets all the attention* | *has all the power*  |
  
+I find it interesting that Alexander seems to be aware of
+all of this, but never takes it on directly.  He has always
+been focused on creating new buildings where you can start
+with a clean slate and do things the right way.  But most of
+the time that's not what you can do.  He always talks of
+gradually moving from what is existing to how you want
+things to be but doesn't address any of that in APL as much
+as he could have.  We build on top of what came before.
+There is no clean slate -- thinking that you can is the
+architect's hubris.
+
+The moments when you can do tabla rosa are few and far
+between.  The great fire of london, a tsunami in Japan or SE
+Asia wipe everything out, even cadastral maps (because the
+property holders are gone as well as the buildings).  We
+should fear such opportunities more than wish for them,
+because unless you start small and grow bottom up in an
+organic manner we will /always/ fuck it up.
+
+But it's even worse than that because when say Myanmar or
+Dubai backed by a mountain of cash have tried to clean slate
+things they try to jump over all of the intermediate steps
+that leads to functional, beautiful human settlements.
+
+Alexander has essentially made the case to abolish the whole
+class of architects and architecture as we know it today and
+go back to the older concept of the master builder.
+
+The big name architects are too focused on originality and
+have largely forgotten craft and that structures are a part
+of the environment (context) that they are built in and are
+built for mostly pedestrian functions.  They put the focus
+of vision on originality rather than achieving the purpose
+the building is meant to fill.  The small name architects
+are often just as bad or worse because they are just
+knocking out structures at a distence according to
+specifications provided by a customer that are based on
+lowest common demoninator metrics and contruction financing
+and practices that are estranged from the purpose that the
+building is meant to fulfill.
+
+
 **** Paul Saffo's Pace Layers
 
  - Anthros
