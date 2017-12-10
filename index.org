@@ -32,7 +32,7 @@ bibliography:../hoard/bib.bib
 
    The threads in a woven fabric, comprised of the warp
    (threads running lengthwise) and woof (threads running
-   crosswise) to create a the texture of the fabric.
+   crosswise) to create the texture of the fabric.
 
 2. warp and woof(Noun)
 
@@ -130,13 +130,29 @@ which will be made up of seven parts:
   - 4 Infrastructure
   - 3 Governance
   - 2 Culture
-  - 1 Nature
-  - 0 Meta
+  - 1 Nature 
+
+
+  |         | 8 Fashion        |
+  |         | 7 Commerce       |
+  | Anthros | 6 Infrastructure |
+  |         | 5 Governance     |
+  |         | 4 Culture        |
+  |---------+------------------|
+  |         | 3 Bios           |
+  | Nature  | 2 Lithos         |
+  |         | 1 Cosmos         |
+  |---------+------------------|
+  | Meta    | 0                |
+
+
 
 Each layer has a different =Rate of Change= (ROC) with
 /Nature/ at the bottom being the slowest and /Fashion/ at
 the top in a constant state of churn, changing at a staccato
 rapid-fire beat.
+
+"the fast parts learn, the slow parts remember"
 
 We added a 7th group called /Meta/ for patterns
 that apply to all layers which will be given the number 0
@@ -149,11 +165,69 @@ Patterns will have keys (unique ids) in the form of:
 So the first pattern in the Meta group would have the key
 APPL0:0001.
 
+**** Steward Brand and Paul Saffo: Pace Layers Thinking -- notes
+
+ - http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/
+
+  slippage between layers, negative feedback looks
+
+    - turbulence
+    - viscosity
+
+  young are concerned with fast layers -- especially fashion
+
+
+  | Fast layers              | Slow layers          |
+  |--------------------------+----------------------|
+  | learns                   | remembers            |
+  | proposes                 | disposes             |
+  | absorbs shocks           | integrates shocks    |
+  | discontinious            | continious           |
+  | innovation/revolution    | constrainy/constancy |
+  | *gets all the attention* | *has all the power*  |
+ 
+**** Paul Saffo's Pace Layers
+
+ - Anthros
+ - Bios
+ - Lithos
+ - Cosmos
+
+So if we combine this with Brand's model we get:
+
+A General Theory Of Bureaucracy (1961)
+Elliott Jaques
+
+https://en.wikipedia.org/wiki/Elliott_Jaques
+
+/Time span of discretion/ that a manager can be ranked 
+
+seven layers on timespan of 
+
+time from formulate a plan to it's execute
+
+the lower the number the shorter the timespan
+
+
+
+**** Japanese mayor (story from audience member)
+
+Was major for over 40 years and in that time went against and fought
+to build a tsunami barrier for this town.  He died before it was ever
+used but the barrier saved the town.
+
+**** Rice on Chessboard
+
+People don't grok exponential growth
+
+pace layers turn Hockey Sticks into S-Curves
+
+
 *** 1. Nature
 
-We divide nature into the realms of the physical universe
-and the subset of that and the tiny subset of that that
-makes up the living universe.
+We divide nature into the realms of the /physical/ universe
+and the tiny subset of that which makes up the /living/
+universe.
 
 We are a part of both realms and we impact and are impacted
 by both realms.  We are part of nature, there is no them and
@@ -170,7 +244,7 @@ same pressurized atmosphere, and protection from solar and
 cosmic radiation to support life.  You can say that the
 meadow is nature uneffected by man, but that isn't exactly
 true either.  Mankind has been shaping the world for tens of
-thousands of years using fire long before the first
+thousands of years using fire, long before the first
 civlizations emerged in the alluvial wetlands of Mesopotamia
 that fundementally changed the biodiversity of broad swaths
 of the planet, especially megafuana.  Cliff paintings
