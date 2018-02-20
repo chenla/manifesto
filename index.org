@@ -38,8 +38,8 @@ bibliography:../hoard/bib.bib
 
    The fundamental structure of any process or system.
 
--- [[http://www.definitions.net/definition/warp%20and%20woof][warp and woof]] | definitions.net
--- [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
+— [[http://www.definitions.net/definition/warp%20and%20woof][warp and woof]] | definitions.net
+— [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
 #+end_quote
 
 Not an origin storym that's moved to the primer.
