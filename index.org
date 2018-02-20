@@ -25,7 +25,7 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-** The Warp and Woof: A Scopic Prologomenon
+** The Warp and Woof
 
 #+begin_quote
 1. warp and woof(Noun)
@@ -42,43 +42,21 @@ bibliography:../hoard/bib.bib
 -- [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
 #+end_quote
 
-
-  - [[./manifesto-filters.org][Filters]]
-
-  - 1. The Big Bang
-  - 2. Stars Light Up
-  - 3. New Chemical Elements
-  - 4. Earth and the Solar System
-
-  - [[./manifesto-life.org][Life]]
-  - 5. Life on Earth
-  - 6. Collective Learning
-  - 7. Agricuture
-  - 8. The Modern Revolution
+Not an origin storym that's moved to the primer.
 
 
+** The Yellow Brick Road: a manifesto
 
-  - [[./manifesto-savannah.org][Savannah]]
-  - [[./manifesto-cognition.org][Cognition]]
-  - [[./manifesto-polis.org][Polis]]
-  - [[./manifesto-fragility.org][Fragility]]
-  - [[./manifesto-estrangement.org][Estrangement]]
-  - [[./manifesto-social.org][Social]]
-  - [[./manifesto-natures.org][Natures]]
-  - [[./manifesto-storms.org][Storms]]
-  - [[./manifesto-maps.org][Maps]]
-  - [[./manifesto-stories.org][Stories]]
+  - [[./manifesto-yellow.org][The Yellow Brick Road]] (draft)
   - [[./manifesto-window.org][Window]]
 
-** The Yellow Brick Road: a manifesto for an augmented distributed civilization
+The manifesto should be short and sweet as good manifestos
+should always be.  And then backed up by additional in-depth texts
 
-The manifesto should map out the augmented distributed
-civilization we propose to build that will act like a 
-soap bubble overlaying the existing civilization.
-
-  - [[./manifesto-yellow.org][The Yellow Brick Road]]
-
-** Patterns
+** APPL
+:PROPERTIES:
+:ID:       9527a3d3-2034-4f0d-acf4-7ba4fb05723c
+:END:
 
 Patterns are repeating themes in nature, design and human
 behavior that when combined with other patterns strengthen
@@ -133,28 +111,40 @@ Our language will be called /A Pace-Layer Pattern Language/
 (APPL), which will be made up of 9 parts that combine
 Brand's and Saffo's Pace Layer models into one.
 
-  |---------+------------------+------|
-  |         | 8 Fashion        |      |
-  |         | 7 Commerce       | Fast |
-  | Anthros | 6 Infrastructure |      |
-  |         | 5 Governance     |      |
-  |         | 4 Culture        |      |
-  |---------+------------------+------|
-  |         | 3 Bios           |      |
-  | Natura  | 2 Lithos         | Slow |
-  |         | 1 Cosmos         |      |
-  |---------+------------------+------|
-  | Meta    | 0                |      |
+This view shows as slow to fast as pace layers, but it
+should be remembered that layers 1-4 are nested within each
+other and the Anthros layers are a subgroup of bios.
+
+  |----------+------------------|
+  |          | 9 Fashion        |
+  |          | 8 Commerce       |
+  | Anthros* | 7 Infrastructure |
+  |          | 6 Governance     |
+  |          | 5 Culture        |
+  |----------+------------------|
+  |          | 4 Anthros*       |
+  |          | 3 Bios           |
+  | Natura   | 2 Lithos         |
+  |          | 1 Helios         |
+  |          | 0 Cosmos         |
+  |----------+------------------|
 
 
-The 9th group called /Meta/ contains patterns that apply to
-all layers which will be given the number 0 below /cosmos/
+This is only one POV, we need to present this as how these
+different things form a hierarchy so that it's understood
+that anthros is a subset of bios and not seperate.
+
+The 9th group called /0 Meta/ contains patterns that apply to
+all layers which will be given the number 0 below /1 cosmos/
 which is number 1.
 
 Each layer has a different =Rate of Change= (ROC) with
 /Cosmos/ at the bottom being the slowest and /Fashion/ at
 the top in a constant state of churn, changing at a staccato
 rapid-fire beat.
+
+
+*** Pattern Keys
 
 Patterns will have keys (unique ids) in the form of:
 
@@ -163,7 +153,10 @@ Patterns will have keys (unique ids) in the form of:
 So the first pattern in the Meta group would have the key
 APPL0:0001.
 
-**** Steward Brand and Paul Saffo: Pace Layers Thinking -- notes
+
+
+
+*** Steward Brand and Paul Saffo: Pace Layers Thinking -- notes
 
  - http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/
 
@@ -280,6 +273,13 @@ the context of almost anything.  They are also are our
 biggest blindspots when any of the three fall outside of
 human scales and comprehension.
 
+Is blindspot the right term?  Failure of imagination?
+Cognitive limitation?  hmmm.
+
+Relativity is based on the concept that what is real is
+dependent on the context of the observer -- this is just
+another formulation of that concept from a different POV.
+
 One of the Meta goals of our project is to find ways to help
 us as individuals and collectively to make these things
 comprehensible so that we act on them when it is necessary.
@@ -287,7 +287,9 @@ comprehensible so that we act on them when it is necessary.
 Climate Change is a problem because we can not comprehend
 the problem that we have created for ourselves.  The Long
 Now Foundation focuses on long term thinking and
-perspectives but scale and change are equally important.
+perspectives but scale and change are equally important.  I
+know that they think that's baked into their mission but its
+worth spelling out.
 
 *** Nature
 
@@ -415,7 +417,45 @@ But there were a couple of times that things were close.
 
 
 
-** Constants
+** Primer
+
+  - origin
+  - theses
+  - education
+  - shops & guilds
+  - value-chain
+  - 
+  - bioregions/ecosystems
+  - production & surpluses
+
+*** Origin Story
+  - [[./manifesto-filters.org][Filters]]
+
+  - 1. The Big Bang
+  - 2. Stars Light Up
+  - 3. New Chemical Elements
+  - 4. Earth and the Solar System
+
+  - [[./manifesto-life.org][Life]]
+  - 5. Life on Earth
+  - 6. Collective Learning
+  - 7. Agricuture
+  - 8. The Modern Revolution
+
+  - [[./manifesto-savannah.org][Savannah]]
+  - [[./manifesto-cognition.org][Cognition]]
+  - [[./manifesto-polis.org][Polis]]
+  - [[./manifesto-fragility.org][Fragility]]
+  - [[./manifesto-estrangement.org][Estrangement]]
+  - [[./manifesto-social.org][Social]]
+  - [[./manifesto-natures.org][Natures]]
+  - [[./manifesto-storms.org][Storms]]
+  - [[./manifesto-maps.org][Maps]]
+  - [[./manifesto-stories.org][Stories]]
+
+
+** Hoard
+*** Constants
 
 Constants are bedrock variables that define things that can
 not be changed like the speed of light or dunbar's number.
@@ -429,8 +469,7 @@ contradict a =constant=.
  - [[./constant-divided-concurrent-goals.org][Divided Concurrent Goals]]
  - [[./constant--shared_intentionality.org][Shared Intentionality]]
 
-
-** Theses
+*** Theses
 
 Scopic Theses are declarations that provide a foundation for
 a =civil ruleset= for people to live and cooperate with each
@@ -440,6 +479,9 @@ other.  Our theses is a social fiction that defines how we
  - [[./theses-preamble.org][Preamble]]
  - [[./theses-notes.org][Theses Notes]]
 
+
+
+** Arc
 
 ** Roadmap
 
