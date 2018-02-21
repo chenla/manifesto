@@ -25,6 +25,51 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
+
+** The Yellow Brick Road: a manifesto
+
+  - [[./manifesto-yellow.org][The Yellow Brick Road]] (draft)
+  - [[./manifesto-window.org][Window]]
+
+The manifesto should be short and as Golem would say,
+juicy-sweet, as good manifestos should always be.  
+
+And then backed up by additional in-depth texts.
+
+The draft linked above is origin story -- that's what
+tripped me up -- move origin story to the primer -- at the
+beginning -- which is the foundation and framework for
+education, goverance and culture.
+
+The origin story will be told from three POV -- Big History
+is LOD the linear narrative that starts big and drills down
+small -- a story with a beginning middle and end.  Next will
+be Scopic -- with pace layers with different ROCs.  Now I
+said three but perhaps those two are enough.  But if there
+is a third it is Process, our origin as a continual process
+of becoming something else.  Each POV is a very different
+perspective giving a different understanding of our origin
+and who we are.  There is no one right way -- and each of us
+construct our own origin story as a combination of parts of
+these three and countless others.  Each POV is an map which
+is a filter used to fit something large and complex into our
+poor limited minds.  The most powerful thing about maps is
+that they don't have much information, they are designed to
+show patterns in complexity -- Ariadne's thread that leads
+us through the labryinth -- which means as Umberto Eco said,
+that you don't need the Minotaur in the middle, he's just
+thrown in to make things a bit more exciting.
+
+I've been thinking about the primer all wrong -- it's not an
+instruction manual -- it's a bible, an encyclopedic skeleton
+key which you use to unlock everything in the /hoard/ and
+/arc/. 
+
+w&w is the primer for the primer -- appl is a generative
+framework for the hoard and the arc is simply everything
+else -- everything.
+
+
 ** The Warp and Woof
 
 #+begin_quote
@@ -42,16 +87,7 @@ bibliography:../hoard/bib.bib
 — [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
 #+end_quote
 
-Not an origin storym that's moved to the primer.
-
-
-** The Yellow Brick Road: a manifesto
-
-  - [[./manifesto-yellow.org][The Yellow Brick Road]] (draft)
-  - [[./manifesto-window.org][Window]]
-
-The manifesto should be short and sweet as good manifestos
-should always be.  And then backed up by additional in-depth texts
+This is not an origin story -- that's moved to the primer.
 
 ** APPL
 :PROPERTIES:
