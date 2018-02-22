@@ -39,7 +39,7 @@ And then backed up by additional in-depth texts.
 The draft linked above is origin story -- that's what
 tripped me up -- move origin story to the primer -- at the
 beginning -- which is the foundation and framework for
-education, goverance and culture.
+education, governance and culture.
 
 The origin story will be told from three POV -- Big History
 is LOD the linear narrative that starts big and drills down
@@ -58,7 +58,8 @@ that they don't have much information, they are designed to
 show patterns in complexity -- Ariadne's thread that leads
 us through the labryinth -- which means as Umberto Eco said,
 that you don't need the Minotaur in the middle, he's just
-thrown in to make things a bit more exciting.
+thrown in to make things a bit more
+exciting. cite:eco:1986semiotics p.80
 
 I've been thinking about the primer all wrong -- it's not an
 instruction manual -- it's a bible, an encyclopedic skeleton
