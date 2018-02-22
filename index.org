@@ -89,6 +89,102 @@ else -- everything.
 
 This is not an origin story -- that's moved to the primer.
 
+Part 1: Three Point of Views
+
+The premise is that it is helpful to always understand the Point
+of View (POV) -- or perspective that you are looking at
+something because when you change your POV you change the
+context of what you are seeing and will often see things you
+didn't see before, or even see things in a completely
+different way than you saw before.
+
+We define three different perspectives:
+
+  - LOD : Level of Detail
+  - ROC : Rate of Change
+  - POC : Process of Change
+
+These three POVs form the foundation for how everything else
+*everything* in APPL, Primer & Hoard are understood.
+
+Each POV becomes increasingly more complex and abstract, but
+each builds on the one before and let's you see the same
+thing from a different perspective.  It does not negate the
+other POVs so much as enriches them and provides a more
+powerful toolbox for modeling and understanding.
+
+For example, let's look at the Origin Story that will start
+the Primer.
+
+The Origin LOD is basically Big History -- a linear timeline
+with a beginning (big bang) middle (from BB to now) and the
+end (projected heat death of the universe).  The narrative
+is organized around tipping points where complexity reaches
+a critical mass that changes the nature of the universe, and
+then later life on earth and eventually us.  This is a
+fantastic narrative and is a perfect way of easing people
+into the origin story which can be understood like any other
+origin story.
+
+The Origin ROC is basically a finer grained version of Big
+History that uses the concept of causal propagation (think
+Light Cones) to understand that different things change at
+different speeds and that all of these things are mixed
+together.  It's the embodiment of Gibson's the future is
+already here isn't just not evenly distributed.  Brand's
+Pace-Layers is a good way of understanding this, as well as
+Light Cones and causal propagation of change happening at
+the speed of light but making the point that the speed of
+light is the maximum speed that things can propagate, most
+things are propagating far slower.
+
+The Origin POC is still a little unclear -- but I think that
+it will basically boil down to how when we talk about LOD
+and ROC we are talking about substance (as the term is used
+in philosophy) that from the time of Aristotle has claimed
+as the only way to understand and argue about the world.
+Sustance changes over time, but that change is accidental
+and does not change form so that it still remains
+essentially the same thing.  But things can also be thought
+of as processes that are in a constant state of changing and
+becoming something else.  The NYC as substance assumes that
+it may change over time but it is still the same NYC from
+when it was a small settlement called New Amsterdam till
+today.  Process philosophy argues that it is not the same
+city even from one moment to the next -- ala you can never
+step in the same river twice.  So when you compare POC with
+ROC you are considering not only how fast things change, but
+the substance of how substances transform over time.
+Understanding things as process and that things change over
+time to become completely different things is important --
+we tend to use words, events and historical figures as if
+they were contemporaries from our own present understanding
+of the world -- they were not what we think of them today --
+we have reinvented them and are continually reinventing
+everything around us -- history is what is written -- what
+was said -- which is a moving target as we write new things.
+The past is not a static fixed thing because out
+understanding is not a static fixed thing.  This is
+important in so many different areas.  For example, in USA,
+when people argue that interpretation of the constitution
+must be in done as it was intended when it was written in
+the 18th century.  Is this even possible?  We can not know
+what their original intend was because our understanding of
+what we think their original intent was is constantly
+changing.  The past is always an invention of the present.
+This does not mean that it's not important to strive to
+understand what that original intent is, it's just that our
+understanding is changing and will never stop changing,
+which in some respects negates the original intention of
+what we set out to do in the first place.  POC has enormous
+implications for everything from contracts to education to
+agriculture to business.
+
+Taken together these three models will give us a set of
+powerful tools for understanding, planning, building, and
+maintaining civilizations.
+
+
 ** APPL
 :PROPERTIES:
 :ID:       9527a3d3-2034-4f0d-acf4-7ba4fb05723c
