@@ -286,12 +286,10 @@ Patterns will have keys (unique ids) in the form of:
 So the first pattern in the Meta group would have the key
 APPL0:0001.
 
-
-
-
 *** Steward Brand and Paul Saffo: Pace Layers Thinking -- notes
 
- - http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/
+ - [[http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/][Pace Layers Thinking]] | Stewart Brand & Paul Saffo | SALT
+ - [[Painted.Woman.2017][Pace Layering: How Complex Systems Learn and Keep Learning]]
 
   slippage between layers, negative feedback looks
 
