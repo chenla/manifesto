@@ -47,25 +47,28 @@ cognitively and we don't scale socially.
 
 JBS Haldane's essay, "On Being the Right Size" cite:haldane:1928being
 
-There are animals who do scale, we are pack animals we
-specialize, and cooperate.
+We are pack animals we specialize, adapt, and cooperate.
 
-herd (large herbavores), flock (some bird species) and
-school (some fish species) animals scale by cooperating but
-do not specialize.  Packs are designed to be small, fast and
-adaptable to that they can counter the collective strength
-of herds.  Packs attack herds.  Herds work in the aggregate,
-the survival of individuals is not important.  And in fact,
-herds are designed for the weak members to be sacrificed so
-that the stronger members can surive.
+There are animals who do scale, herd (large herbavores),
+flock (some bird species) and school (some fish species)
+animals scale by cooperating but do not specialize.  Packs
+are designed to be small, fast and adaptable to that they
+can counter the collective strength of herds.  Packs attack
+herds.  Herds work in the aggregate, the survival of
+individuals is not important.  In fact herds are designed
+for the weak members to be sacrificed so that the stronger
+members can surive.
 
 Herds, flocks and schools work because individuals in the
 group are interchangable.  This does not mean they are
-equal, but they are interchangable.  Packs have leaders,
-there are always power imbalances within packs, but if the
-pack stays small those power imbalances are largely
-compensated for by the other members of the pack.  But when
-you try to scale a pack, those power imbalances are
+equal, but they are interchangable.  
+
+Packs have leaders, there are always power imbalances within
+packs, but if the pack stays small those power imbalances
+are largely compensated for by the other members of the
+pack.
+
+When you try to scale a pack, those power imbalances are
 amplified and the larger the group the larger the power, and
 later wealth imbalances become.
 
@@ -99,6 +102,13 @@ others when they see a return on their expenditure.
 The thing is though, that without those two things, slavery
 and property we would not have civilization, the arts,
 science, philosophy or advanced technology.
+
+Slavery produces surpluses that allow a small number of
+people in a society to be able to pursue intellectual
+pursuits and all advances have come from having enough
+resources for some people to spend some of their time doing
+things that are not directly connected to immediate
+survival.
 
 Ah, I hear some of you say, but we have advanced and no
 longer have institutionalized slavery.  But we do, we just
@@ -174,7 +184,38 @@ us or even notice us and we will never be in a position to
 change that.  Closer to home Life is messy, brutal and
 unfair.  And if it wasn't then Life would eventually
 stagnate and die.  Man is no different, without challenges
-and adversity we too stagnate and die.
+and adversity we too will either stagnate and die or as we
+are doing now, will grow fat and bored and stupid and spend
+all of our time doing things that will wipe ourselves out.
+
+The most important thing to do is stop being scared, stop
+listening to those who are making you scared as a means of
+tricking you into enslaving yourself to them.  Next, you
+don't deserve anything, you have no rights to anything that
+you don't earn.  And you can't do anything unless you have
+the cognitive tools to know when people are selling you the
+Brookline Bridge.  Learn how to learn and keep learning even
+with your dieing breath.  You think you don't need to know
+how to think?  That is the definition of stupidity.  And
+stupid people will get screwed over, every single time.  So
+you need to arm yourself to the teeth.  And only the stupid
+think that means guns or knives.  Physical force is the
+crudest and least effective way of protecting yourself.
+Knowledge and the tools to know how to wield that knowledge
+is.
+
+Finally, get off your ass and do something, anything no
+matter how small to make the world better for your children.
+It's too late for us to reach the promised land, but if we
+try hard enough, then maybe they will live to see it.
+
+
+The message is the mantra which is don't scale: distribute,
+conferderate, cooperate.
+
+   Oh, and be excellent to one another
+
+
 
 -----
 
@@ -206,7 +247,7 @@ exciting. cite:eco:1986semiotics p.80
 I've been thinking about the primer all wrong -- it's not an
 instruction manual -- it's a bible, an encyclopedic skeleton
 key which you use to unlock everything in the /hoard/ and
-/arc/. 
+/arc/.
 
 w&w is the primer for the primer -- appl is a generative
 framework for the hoard and the arc is simply everything
