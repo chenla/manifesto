@@ -129,16 +129,11 @@ interact with sets in the world."
 -- [[http://news.softpedia.com/news/Why-Are-Uniforms-Uniform-27392.shtml][Why Are Uniforms Uniform?]]
 #+end_quote
 
-#+begin_src bibtex
-@article{tomasello:2007shared,
-  title={Shared intentionality},
-  author={Tomasello, Michael and Carpenter, Malinda},
-  journal={Developmental science},
-  volume={10},
-  number={1},
-  pages={121--125},
-  year={2007},
-  publisher={Wiley Online Library}
-}
+** References
 
-#+end_src
+- Tomasello, M., & Carpenter, M., Shared intentionality,
+  Developmental science, 10(1), 121–125 (2007).
+  http://dx.doi.org/10.1111/j.1467-7687.2007.00573.x 
+  cite:tomasello:2007shared
+
+
