@@ -38,11 +38,48 @@ And then backed up by additional in-depth texts.
 
 So now that we aren't burdened with telling an origin story
 in the manifesto, we can focus on laying out the single more
-important problem and the only solution to that problem.  It
-boils down to this:  
+important problem and the only solution to that problem.
+
+----
+
+Man is the planet's apex predator -- we weren't meant to be
+apex predator, we're designed to be in the middle.  The
+problem is that we became an apex predator that the
+ecosystem didn't have time to evolve any checks and balances
+to keep us under control.  Apex predators are supposed to be
+a relatively small niche in any ecosystem.  It's an
+important niche, but it doesn't require many to get the job
+done.  Man turned that on it's head.  Man has managed to
+thwart every natural check on our population growth that
+nature as thrown at us, creating a highly adaptable,
+resilient positive feedback loop which has engulfed the
+planet.  Ecological collapse, pandemics, drought, crop
+failures, nothing seems to stop Man's runaway train.  So now
+nature is gearing up to deploy the nuclear option -- global
+climate change which will continue to get worse until Man
+has shrunk back to within the planet's carrying capacity or
+Man is effectively extinct.  It might take hundreds of
+thousand or even millions of years for the planet's
+biosphere to recover from what we've done, but it will
+happen.
+
+But there is another way.  We need to engineer checks and
+balances on ourselves that overcome our cognitive and
+biological shortcomings.  This is not as draconian or
+dramatic as it might sound.  This is where the lower
+pace-layers come into play -- we need to give the same
+technoligical and cognitive advantage that we hold at human
+scales to processes that are happening at ROCs that are
+below human cognitive limits.  The slower pace-layers put
+the brakes on the faster layers to ensure they don't go out
+of control.  Man has bipassed those slower processes.  We
+need to put them back into power.
+
+This is where Slow AI comes in.
+
 
 Humans don't scale, we don't scale physically -- the attack
-of the 50 foot woman not withstanding, we don't scale
+of the 50 foot woman not withstanding -- we don't scale
 cognitively and we don't scale socially.
 
 JBS Haldane's essay, "On Being the Right Size" cite:haldane:1928being
@@ -144,6 +181,8 @@ The network that ties all of the packs together needs to be
 a trustless system that ensures a even playing field for all
 packs so that the system doesn't devolve back into a
 herd slave-states again.
+
+
 
 After we do this, a lot of things will begin to self-correct
 over the next couple of centuries.
