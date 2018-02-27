@@ -26,14 +26,39 @@ bibliography:../hoard/bib.bib
 :END:
 
 
+#+begin_quote
+I have to learn the simplest things 
+last.  Which made for difficulties.
+Even at sea I was slow, to get the hand out, or to cross
+a wet deck.
+            The sea was not, finally, my trade
+But even my trade, at it, I stood estranged
+from that which is most familiar.  Was delayed,
+and not content with the man's argument
+that such a postponement
+is now the nature of 
+obedience.
+              that we are all late
+              in a slow time,
+              that we grow up many
+              And the single
+              is not easily
+              known
+
+
+-- Maximus, to himself
+   Charles Olson  
+#+end_quote
+
+
 ** The Yellow Brick Road: a manifesto
 
   - [[./manifesto-yellow.org][The Yellow Brick Road]] (draft)
   - [[./manifesto-window.org][Window]]
 
---------
+-----
 
-  - a preface for the collapse 
+  - a preface for the collapse
   - the accidental apex predator
   - the nature of human scale
   - the nature of change
@@ -41,12 +66,54 @@ bibliography:../hoard/bib.bib
   - the inevitable
   - the window
 
-The collapse is already well 
+-----
 
-Most people are surprised at how suddenly societies
-collapse, even natural disasters such as large scale famine
-and drought are largely decades or even centuries in the
-making and 
+The collapse is already well underway, but as in all things,
+it isn't evenly distributed.
+
+
+All is process, not in thing.
+
+Everything is in the process of becoming something else
+
+
+People are surprised at how suddenly societies collapse,
+
+The decline had been long and clear, and yet unseen
+
+we normalize gradual change, adjusting incrementally, and
+seldom notice anything below the threshold when biological
+alarms are triggered.  And when that tipping point occurs,
+we go along with the madness and most of us go both
+collectively and individually insane.
+
+burn books, rat out your neighbor to the death squads, march
+and chant abominations, cheer and jeer at public executions
+and unhinged pledges of hate, and fear, and stupidity.  You
+shake your head, thinking that you could never do such
+things, but you will, most of us will.  /That/ is normal,
+it's the one's who don't who are the outliers. This is the
+monstrous darkness that lies within our souls and there is
+no getting around it.  Welcome to the collapse, you are in
+good company.
+
+
+
+
+mobs are herds for humans, where we turn off the cerebral
+cortex and let our limbic systems ride roughshod.
+
+
+
+it was happening all around them and they never seem to see
+
+normalization
+
+
+hope is not given, its germinated, nurtured, and protected
+
+fragile, 
+
 
   corn rust?  should have wiped out north america, and it
   was only through the heroic efforts of xxx that averted it
@@ -456,6 +523,10 @@ The message is the mantra which is don't scale: distribute,
 conferderate, cooperate.
 
    Oh, and be excellent to one another
+
+-----
+
+Mobs
 
 
 
