@@ -25,6 +25,7 @@ bibliography:../hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
+** The Yellow Brick Road: A Manifesto
 
 #+begin_quote
 I have to learn the simplest things 
@@ -45,11 +46,31 @@ obedience.
               is not easily
               known
 
-
--- Maximus, to himself
-   Charles Olson  
+— Maximus, to himself
+  Charles Olson  
 #+end_quote
 
+
+** A Preface for Collapse
+
+#+begin_quote
+I set out now
+in a box apon the sea
+
+— Maximus Poems
+  Charles Olson
+#+end_quote
+
+The collapse is already underway, and as in all things, it
+isn't evenly distributed. 
+
+
+
+
+
+
+
+* The Rest
 
 ** The Yellow Brick Road: a manifesto
 
@@ -604,7 +625,7 @@ So what's the new social contract?
 
 This is not an origin story -- that's moved to the primer.
 
-Part 1: Three Point of Views
+*** Part 1: Three Point of Views
 
 The premise is that it is helpful to always understand the Point
 of View (POV) -- or perspective that you are looking at
@@ -653,6 +674,14 @@ the speed of light but making the point that the speed of
 light is the maximum speed that things can propagate, most
 things are propagating far slower.
 
+
+#+begin_quote
+The distinction between past, present and future is only a
+stubbornly persistent illusion.
+
+— Albert Einstein
+#+end_quote
+
 The Origin POC is still a little unclear -- but I think that
 it will basically boil down to how when we talk about LOD
 and ROC we are talking about substance (as the term is used
@@ -698,6 +727,55 @@ agriculture to business.
 Taken together these three models will give us a set of
 powerful tools for understanding, planning, building, and
 maintaining civilizations.
+
+
+*** Part 2. Structures
+
+
+- map and territory
+
+  holons
+  narratives (stories)
+
+- graphs & relationships
+
+- living systems
+
+*** Part 3. Boundries
+
+ - physical and cognitive limits
+
+   sensual limits
+     - light & color
+     - sound
+     - smell
+     - touch
+   cogntive limits
+   memory limits
+   social limits
+     - number of friends
+     - group size
+     - generational
+     - change thresholds
+   temporal limits
+   biological
+     - atmosphere
+     - temperature
+     - food
+     - sleep -- diurnal cycles 
+     - size
+     - age  
+
+*** Part 2. Estrangement
+
+ - quality -- beauty    -- connectedness
+ - caring  -- integrity -- control
+
+
+*** Part 3. Pattern Languages
+
+
+*** 
 
 
 ** APPL
