@@ -54,6 +54,16 @@ obedience.
 ** Preface
 
 #+begin_quote
+The crisis consists of the fact that the old is dying
+and the new cannot be born,  In this interregnum, a great
+variety of morbid symptoms appear.
+
+— Antonio Gramsci, /Prison Notebooks/
+  quoted by Edward Dorn cite:dorn:2007ed-dorn-live
+#+end_quote
+
+
+#+begin_quote
 “Men and nations behave wisely when they have exhausted all
 other resources.”
 
@@ -61,21 +71,53 @@ other resources.”
   https://quoteinvestigator.com/2012/11/11/exhaust-alternatives/
 #+end_quote
 
+After nearly 20 years labor, I return from the wilderness 
+with a question.  Can Man have it all?  10 billion plus
+souls living at a high standard of living in an advanced
+that is within the bounds of a sustainable carrying capacity
+and healthy biosphere?
 
-the question becomes -- can man have it all?  10 billion
-plus souls living at a Western standard of living that is
-within Mankind's carrying capacity?  Can we have it all?
+as things stand today, no
 
-my answer is conditionally, yes, and I'm pretty sure how,
-but it won't be what you think and require very hard changes
-that again are not what you'll be expecting...  and the cost
-to get from here to there will be staggering -- because
-we're human, and we're never managed to get anything right
-the first time before, so there is no reason to think we
-will now.  The present evidence seems to support this.
+but my answer is, conditionally yes, and I'm reasonably sure
+how, but it won't be what you think and require very hard
+changes that again are not the changes you'll be
+expecting...
 
+above all it will take the one thing we are wont to give, time.
 
+the cost to get from here to there will be staggering --
+partly because we're human, and humans have never managed to
+get anything right the first time before.  There is no
+reason to believe that this time will be any different.
 
+it will also be uneven, not because it has to be, but
+because it will be -- most of us, nor most of our children
+will live to see the promised land though some of them might
+live to glimpse it.  And even when the promised land is
+finally reached it will take generations more before all of
+the slow-layers can catch up.  
+
+Utopias are dreams, and as such are worth aspiring to even
+though we know they can never come to pass.  But hope is a
+wholly different genus.  Dreams are helpful, but hope is
+essential.  Hope, the last thing to escape Pandora's box is
+the flame that can not be given, it must be sparked,
+nurtured, protected, and kept alive despite all odds, lest
+it be blown out from the slightest puff of air.  It is hope
+that is what is needed more than anything, for us to carry
+on and survive -- the fragile seemingly madman's hope that
+we can build a better world.
+
+that is the good news, and it's better news than we have at
+the moment.  Belief in lies and impossibilities is nothing
+more than escapism, a coping mechanism we can no longer
+afford.  the future can be bright, but not for us.  and we
+need to accept and come to terms with what can be done, and
+what we have to atone for and just get on with it.
+
+that is what this work is all about, how we can go back to
+first principles and get on with it.
 
 ** A Preface for Collapse
 
