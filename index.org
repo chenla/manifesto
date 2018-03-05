@@ -71,11 +71,11 @@ other resources.”
   https://quoteinvestigator.com/2012/11/11/exhaust-alternatives/
 #+end_quote
 
-After nearly 20 years labor, I return from the wilderness 
+After nearly 20 years labor, I return from the wilderness
 with a question.  Can Man have it all?  10 billion plus
-souls living at a high standard of living in an advanced
-that is within the bounds of a sustainable carrying capacity
-and healthy biosphere?
+souls living at a high standard of living in an
+technogically advanced that is within the bounds of a
+sustainable carrying capacity and healthy biosphere?
 
 as things stand today, no
 
@@ -118,6 +118,62 @@ what we have to atone for and just get on with it.
 
 that is what this work is all about, how we can go back to
 first principles and get on with it.
+
+------- let's try again
+
+
+#+begin_quote
+The application of human intelligence to all
+phenomena. . . [is] /the/ ordering agent.
+
+— Human Universe
+#+end_quote
+
+Ideal polis in which authority is invested in each citizen
+individually
+
+The problem is that we have forgotten how to live in the
+territory, all we now do is live in a matryoshika of nested
+maps!  The map used to let us navigate the world, but we
+have let so many others make maps for us that we no longer
+see what they map.
+
+Aristotle may have kicked this off with his logic and
+interminable classifications, but it's all the others who
+came after from the Christians and Muslims insisting that
+all maps be built on top of their creaky Bronze Age
+overlays, and the endless irritations from Dante and Milton
+to Marx and the shallow emptiness of Rand. We handed over
+the very foundations of cultural muthos and the bones of
+language itself to shills like Disney, washing the world of
+its warts, sharp edges and brutality, lulling the young into
+believing in happy endings and safety and fairness.  The
+stories Disney appropriated held none of this.  He went
+further not content with the stories of the old country
+populated by a complex ecosystem of indifferent, dangerous
+and sometimes sinister spirits and creatures, to literally
+buy out the strange sometimes edgy stories of Carrol, Milne
+and Barrie.  When you visit any of the Disney.* properties
+you will see incarnations of Pooh, and Tinkerbell and the
+Cheshire Cat, in an a cornucopia of commercial incarnations
+purchase you can take home, but none of the original books.
+
+We worry that people believe that Facebook is the internet
+but don't even raise an eyebrow to the likes of Disney's
+annexation of our cultural mythological storehouse.
+
+This was all inevitable once we had contrived the written
+word, and then the printed word and now the ghosts of
+printed words flickering on brightly lit displays like
+shadows in Plato's cave wall that now are seldom more than
+captions for captured images and sounds, masquerading as
+snapshots of the world.  A whole generation now experiences
+the world through the augmented filter of a viewfinder.
+
+We must clear out all the crud and make our maps of the
+world through direct experience.  We can learn from other's
+maps, but we cannot
+
 
 ** A Preface for Collapse
 
@@ -901,23 +957,23 @@ Our language will be called /A Pace-Layer Pattern Language/
 (APPL), which will be made up of 9 parts that combine
 Brand's and Saffo's Pace Layer models into one.
 
-This view shows as slow to fast as pace layers, but it
-should be remembered that layers 1-4 are nested within each
-other and the Anthros layers are a subgroup of bios.
+This table shows slow to fast as pace layers, but it should
+be remembered that layers 1-4 are nested within each other
+and the Anthros layers are a subgroup of bios.
 
-  |----------+------------------|
-  |          | 9 Fashion        |
-  |          | 8 Commerce       |
-  | Anthros* | 7 Infrastructure |
-  |          | 6 Governance     |
-  |          | 5 Culture        |
-  |----------+------------------|
-  |          | 4 Anthros*       |
-  |          | 3 Bios           |
-  | Natura   | 2 Lithos         |
-  |          | 1 Helios         |
-  |          | 0 Cosmos         |
-  |----------+------------------|
+  |----------+------------------+-------------|
+  |          | 9 Fashion        | agora       |
+  |          | 8 Commerce       | stoa        |
+  | Anthros* | 7 Infrastructure | polis       |
+  |          | 6 Governance     | pynx & bema |
+  |          | 5 Culture        | muthos      |
+  |----------+------------------+-------------|
+  |          | 4 Anthros*       |             |
+  |          | 3 Bios           |             |
+  | Natura   | 2 Lithos         |             |
+  |          | 1 Helios         |             |
+  |          | 0 Cosmos         |             |
+  |----------+------------------+-------------|
 
 
 This is only one POV, we need to present this as how these
