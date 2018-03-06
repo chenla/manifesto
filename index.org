@@ -27,6 +27,8 @@ bibliography:../hoard/bib.bib
 
 ** The Yellow Brick Road: A Manifesto
 
+** Epigraph
+
 #+begin_quote
 I have to learn the simplest things 
 last.  Which made for difficulties.
