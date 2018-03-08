@@ -224,8 +224,113 @@ Wang and later Sun and SGI.
 
 The PC revolution broke things up further giving birth to
 countless PC companies, some of which became monsters like
-Dell.  But the power had moved to the edge of the network
-and that's where the Wizards went as well.
+Dell.  
+
+This happened because of Apple, which had the vision, but
+Job's was too much of a control freak and perfectionist --
+who created beautiful but expensive and inflexible products.
+Jobs sold people on the vision of personal computering.  It
+was Gates who didn't care about beauty or even quality and
+was focused on delivering a minimal viable product and
+selling as many of them as possible.  Gates' vision was that
+of any 20th century industrialist.  He rode on Job's coat
+tails.  And predictibly Jobs imploded -- and when he
+returned he abandoned his original vision of general purpose
+compters for everyone and found that he could create
+consumer electronics where his obsession with beauty and
+absolute control worked all too well.  In that sense I would
+never call him a prophet and he was never a wizard.  He was
+a flawed visionary who was tied to all sorts of nonsense
+that contributed to his early death.  The idiot put all of
+his faith in crackpot "alternative" medicine and food
+ideologies like veganism, that are impossible to strictly
+adhere to and not die.
+
+It's also interesting to contrast Job's and Gate's in other
+ways.  Jobs was never a philanthropist, he believed that his
+vision was his gift to the world.  Gates has followed the
+tried and true path of all robber-barons, believing that
+through his largess by funding great humanitarian works will
+compensate for the wreckage that his ambition and greed left
+in its wake.  That's not a bad thing.  Look at the good that
+has been done by foundations set up by Ford, Carnegie and
+Rockafella, to name a few.
+
+
+
+   My company was on the short end of that ambition in the
+   90's. We were an early Internet company based in Hong
+   Kong. The Internet, from day one, ran on Unix, we didn't
+   use MS products.  Our system used sparc stations, SGI
+   servers and later a couple of boxes running early
+   versions of Slackware.  We /couldn't/ use MS products --
+   they couldn't do the job.  We didn't compete in any MS
+   markets.  Sadly, one of our staff (our one expat hire)
+   was an MS fan and convinced us to help MS with the Hong
+   Kong launch of Windows '95.  We spent about US$5K to set
+   up a temporary leased line (it was very expensive back
+   then) to our data center and provide an Internet
+   connection for the launch.  We only asked that our
+   company be given credit for the connectivity.  Of course
+   that didn't happen.  Then to add insult to injury they
+   called up a few weeks later and offered us free licences
+   and then later free hardware to switch to NT.  It was
+   physically impossible for us to do so even if we wanted
+   to.  NT didn't have the network support for TCP/IP needed
+   for Internet servies.  We politely said no thanks. So
+   they went after our engineers and tried to hire them
+   away.  Our engineers said no thanks because they didn't
+   like working with the MS Windows/NT operating
+   system. Finally MS offered to pay them to not work for us
+   and upped the offer.  When I found out, I told them to
+   take the money and start their own company with my
+   blessing, which they did. It would have been stupid to
+   pass up that kind of money.
+
+   After the dotcom crash we moved to Japan and into
+   computer animation.  MS was then out to crush SGI and
+   bought out Softimage and ported it to NT which was wasn't
+   very good.  We had a couple hundred thousand invested in
+   SGI hardware, and had licences for Softimage and Power
+   Animator (now called Maya).  We tried to upgrade our
+   licence for Softimage for our hardware and MS said that
+   we couldn't (the upgrade was available but only big shops
+   were allowed to get the upgrade) they were trying to
+   strong arm small shops like us into moving over to NT.
+   They told us they would give us free licences for the NT
+   port.  I said no thank you, and they called back next
+   week and offered to give us free hardware to run it on. I
+   said no thanks. SGI had far far better hardware but it
+   was very expensive.  They began loosing marketshare and
+   eventually made the mistake of selling workstations that
+   ran NT.  It was all downhill from there.  As soon as SGI
+   had been crushed, MS sold Softimage to AutoDesk --
+   mission accomplished.
+
+   Did any of this substantially hurt us?  In the larger
+   scheme of things, no.  But then we were always a very
+   small fish. The bigger fish in the pond got hit far
+   harder than we were.
+
+   Fast forward close to thirty years and I am now working
+   in R&D and the non-profit sector and last month we
+   indirectly ran into Gates again and he hasn't changed at
+   all.  He's running his foundation the same way he ran MS.
+   There are some pretty hefty strings that come with his
+   grant money, all of which ensure he will see a large
+   financial return on all Grants. If they approach us in
+   the future, we will again, politely say no and hope for
+   the best.
+
+   This is the same playbook that Facebook is running now
+   without the overt personal mafia-style tactics.  They
+   don't have to, everything is online now.  You don't have to
+   screw people in person any more.  The game never changes,
+   just the name of the players.
+
+
+But the power had moved to the edge of the network and
+that's where the Wizards went as well.
 
 When the Internet came along the Wizards saw how they could
 not only network PCs together over a network, but wire them
