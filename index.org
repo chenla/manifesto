@@ -194,7 +194,75 @@ world through direct experience.  We can learn from other's
 maps, but we cannot
 
 
+--------
 
+I am coming to the conclusion that wizards and prophets are
+not so much opposed to each other as one might think.
+
+The wizard has traditionally represented centralized
+technological solutions because initial solutions usually
+only work at large scales.  Centralized systems are used for
+processes that are no economical to do at smaller scales.
+But as more is learned, centralized systems become smaller
+and smaller until they become more efficient at the edge of
+networks which are distributed.  Amazon, Google and Facebook
+would not exist if the things they do could be done at
+smaller scales.
+
+One problem is that once you get these very large centralized
+systems, they become an intelligence in their own right, and
+that comes with a survival instinct.  They will fight like
+hell to survive and grow, even if they are no longer needed.
+
+That's what happened with Ma Bell.  Microsoft hit that wall
+and narrowly avoided being broken up, but instead were
+relegated to corporate middleware, and employee interfaces.
+
+IBM lost their position as king of the hill to see their
+market fracture into minicomputer companies like DEC and
+Wang and later Sun and SGI.
+
+The PC revolution broke things up further giving birth to
+countless PC companies, some of which became monsters like
+Dell.  But the power had moved to the edge of the network
+and that's where the Wizards went as well.
+
+When the Internet came along the Wizards saw how they could
+not only network PCs together over a network, but wire them
+together into cluster -- commodity share-nothing clusters
+replaced mainframes and minis alike.  The PC became the
+atomic unit of computing machines.
+
+The prophets are not makers, they might have the vision but
+they don't have the skills or the resources to make that
+vision happen.  The wizards have the skills but not the
+resources, so they find backers -- as Neal Stephenson said,
+the hacker and the backer is the oldest relationship in the
+world.  In some cases that's enough.  The hacker creates, or
+discovers, but seldom has a vision -- that's the job of the
+prophet.  The wizard-prophet is a rare creature but has has
+largely filled that role to date.  The wizards work for the
+wizard-prophets and the backers stand in line to give them
+resources and wait for the money to roll in.
+
+Prophets have had a hard time of it, because they are too
+far ahead of the curve, wizards create things that work,
+prophets envision things that are right.
+
+I believe that those two worlds are coming together.
+Prophets might be right, but their solutions are too
+expensive and can't be made to work.  But technology and
+science is catching up -- and over the next decades we will
+see wizards increasingly find ways of building distributed
+technology that will be as economical as centralized
+technology but will be far more responsive, and flexible.
+
+When the three come converge, the wizard, prophet and
+backer, it will trigger an distributed industrial
+revolution.  That process is well underway -- CRISPER, dirt
+cheap genome encoding, artificial intelligence, robotics,
+nano-tech and materials science are all heading towards that
+convergence.
 
 
 ** A Preface for Collapse
