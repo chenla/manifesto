@@ -143,9 +143,13 @@ convert people -- that will be Contact's job.
 
 Fear doesn't work -- we need a meme of a new social contract
 that will attract people to join the Middle.
+
+  The Culture
+    - Middle : the ai&network that replaces middlemen
+    - Contact
+    - Special Circumstances
+
 #+end_comment
-
-
 
 The problem is that we have forgotten how to live in the
 territory, all we now do is live in a matryoshika of nested
@@ -868,17 +872,16 @@ powerful tools for understanding, planning, building, and
 maintaining civilizations.
 
 
+
+*** Part 2: Dualities
+ - part     <>  whole (holon)
+ - map      <>  territory
+ - metadata <>  data
+
 *** Part 2. Structures
-
-
-- map and territory
-
-  holons
-  narratives (stories)
-
-- graphs & relationships
-
-- living systems
+ - graphs
+ - lists
+ - trees
 
 *** Part 3. Boundries
 
