@@ -13,10 +13,12 @@
 
 bibliography:../hoard/bib.bib
 
+*NOTE: File Deprecated 2018-04-19*
+
 * Window
 :PROPERTIES:
 :CUSTOM_ID: 
-:Name:      /home/deerpig/proj/chenla/manifesto/manifesto-window.org
+:Name:      /home/deerpig/proj/chenla/manifesto/archive/manifesto-window.org
 :Created:   2017-10-17T19:14@Prek Leap (11.642600N-104.919210W)
 :ID:        960ef0ec-8168-4872-887d-8453869e6398
 :VER:       561514522.282642944
