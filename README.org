@@ -22,6 +22,18 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+*PLEASE NOTE: 2018-04-19, Prek Leap*
+
+This archive is in the process of being deprecated. We are
+slowly moving all contents that are worth keeping to their
+new home which is part of Warp & Woof, APPL, Hoard and
+Primer.
+
+As we process each file, it will be moved into the ./archive
+directory.  When we've finished moving everything there, the
+entire repo will be deprecated and archived.
+
+---
 
 Bibles are the traditional place for /canonical/ origin
 stories.  I emphasize canonical because in a Bible, those
