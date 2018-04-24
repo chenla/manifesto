@@ -28,7 +28,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-** Brief Histories of the Universe, Earth and Man
+*NOTE: This file is in the process of being deprecated 2018-03-24*
+
+** Brief Histories of the Universe, Earth and Man  :deprecated:
 
  - Bronowski, J., The ascent of man (2011), : BBC Digital.
    cite:bronowski:2011ascent
@@ -63,7 +65,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  cite:peters:1998spotting
 
-** Representing Time
+** Representing Time :deprecated:
 
 Big History is pretty fucking cool.  The idea is to tell the
 story of the universe (us included) from the perspective of
