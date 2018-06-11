@@ -24,7 +24,7 @@
 
 *PLEASE NOTE: 2018-04-19, Prek Leap*
 
-This archive is in the process of being deprecated. We are
+/This archive is in the process of being deprecated/. We are
 slowly moving all contents that are worth keeping to their
 new home which is part of Warp & Woof, APPL, Hoard and
 Primer.
@@ -63,3 +63,8 @@ lifetimes at most.  Try as she might, her memories are in a
 constant state of fading so that she is doomed to relive and
 make the same mistakes time and again.
 
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/manifesto]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/manifesto]]
